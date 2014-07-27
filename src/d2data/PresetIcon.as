@@ -1,27 +1,18 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class PresetIcon extends ReadOnlyData
+   public class PresetIcon extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function PresetIcon() {
+         super();
       }
       
-      public function PresetIcon(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get order() : int
-      {
-         //Décompilation abandonné
+      public function get order() : int {
+         return new int();
       }
    }
 }

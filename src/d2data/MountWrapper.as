@@ -3,18 +3,16 @@ package d2data
    public class MountWrapper extends ItemWrapper
    {
       
-      {
-      //Décompilation abandonné
+      public function MountWrapper() {
+         super();
       }
       
-      public function MountWrapper(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get mountId() : int {
+         return new int();
       }
       
-      public function get mountId() : int
-      {
-         //Décompilation abandonné
+      public function get uri() : Object {
+         return null;
       }
    }
 }

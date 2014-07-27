@@ -1,42 +1,30 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class AlmanaxMonth extends ReadOnlyData
+   public class AlmanaxMonth extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function AlmanaxMonth() {
+         super();
       }
       
-      public function AlmanaxMonth(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : uint {
+         return new uint();
       }
       
-      public function get id() : uint
-      {
-         //Décompilation abandonné
+      public function get monthNum() : uint {
+         return new uint();
       }
       
-      public function get monthNum() : uint
-      {
-         //Décompilation abandonné
+      public function get protectorName() : String {
+         return new String();
       }
       
-      public function get protectorName() : String
-      {
-         //Décompilation abandonné
+      public function get protectorDescription() : String {
+         return new String();
       }
       
-      public function get protectorDescription() : String
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get webImageUrl() : String
-      {
-         //Décompilation abandonné
+      public function get webImageUrl() : String {
+         return new String();
       }
    }
 }

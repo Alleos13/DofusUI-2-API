@@ -1,82 +1,90 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class AllianceWrapper extends ReadOnlyData
+   public class AllianceWrapper extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function AllianceWrapper() {
+         super();
       }
       
-      public function AllianceWrapper(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get allianceId() : uint {
+         return new uint();
       }
       
-      public function get allianceId() : uint
-      {
-         //Décompilation abandonné
+      public function get upEmblem() : EmblemWrapper {
+         return new EmblemWrapper();
       }
       
-      public function get upEmblem() : EmblemWrapper
-      {
-         //Décompilation abandonné
+      public function get backEmblem() : EmblemWrapper {
+         return new EmblemWrapper();
       }
       
-      public function get backEmblem() : EmblemWrapper
-      {
-         //Décompilation abandonné
+      public function get enabled() : Boolean {
+         return new Boolean();
       }
       
-      public function get enabled() : Boolean
-      {
-         //Décompilation abandonné
+      public function get creationDate() : uint {
+         return new uint();
       }
       
-      public function get creationDate() : uint
-      {
-         //Décompilation abandonné
+      public function get nbGuilds() : uint {
+         return new uint();
       }
       
-      public function get nbGuilds() : uint
-      {
-         //Décompilation abandonné
+      public function get nbMembers() : uint {
+         return new uint();
       }
       
-      public function get nbMembers() : uint
-      {
-         //Décompilation abandonné
+      public function get nbSubareas() : uint {
+         return new uint();
       }
       
-      public function get nbSubareas() : uint
-      {
-         //Décompilation abandonné
+      public function get leaderGuildId() : uint {
+         return new uint();
       }
       
-      public function get leaderGuildId() : uint
-      {
-         //Décompilation abandonné
+      public function get leaderCharacterId() : uint {
+         return new uint();
       }
       
-      public function get leaderCharacterId() : uint
-      {
-         //Décompilation abandonné
+      public function get leaderCharacterName() : String {
+         return new String();
       }
       
-      public function get leaderCharacterName() : String
-      {
-         //Décompilation abandonné
+      public function get guilds() : Object {
+         return new Object();
       }
       
-      public function get guilds() : Object
-      {
-         //Décompilation abandonné
+      public function get prismIds() : Object {
+         return new Object();
       }
       
-      public function get prismIds() : Object
-      {
-         //Décompilation abandonné
+      public function get allianceTag() : String {
+         return null;
+      }
+      
+      public function get realAllianceTag() : String {
+         return null;
+      }
+      
+      public function get allianceName() : String {
+         return null;
+      }
+      
+      public function get realAllianceName() : String {
+         return null;
+      }
+      
+      public function get memberRightsNumber() : uint {
+         return 0;
+      }
+      
+      public function get memberRights() : Object {
+         return null;
+      }
+      
+      public function get isBoss() : Boolean {
+         return false;
       }
    }
 }

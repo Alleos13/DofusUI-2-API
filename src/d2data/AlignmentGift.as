@@ -1,37 +1,30 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class AlignmentGift extends ReadOnlyData
+   public class AlignmentGift extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function AlignmentGift() {
+         super();
       }
       
-      public function AlignmentGift(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get effectId() : int {
+         return new int();
       }
       
-      public function get effectId() : int
-      {
-         //Décompilation abandonné
+      public function get gfxId() : uint {
+         return new uint();
       }
       
-      public function get gfxId() : uint
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
       }
    }
 }

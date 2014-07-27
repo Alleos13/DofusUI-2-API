@@ -1,37 +1,26 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class AlignmentRankJntGift extends ReadOnlyData
+   public class AlignmentRankJntGift extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function AlignmentRankJntGift() {
+         super();
       }
       
-      public function AlignmentRankJntGift(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get gifts() : Object {
+         return new Object();
       }
       
-      public function get gifts() : Object
-      {
-         //Décompilation abandonné
+      public function get parameters() : Object {
+         return new Object();
       }
       
-      public function get parameters() : Object
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get levels() : Object
-      {
-         //Décompilation abandonné
+      public function get levels() : Object {
+         return new Object();
       }
    }
 }

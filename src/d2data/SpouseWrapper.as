@@ -1,82 +1,62 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class SpouseWrapper extends ReadOnlyData
+   public class SpouseWrapper extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function SpouseWrapper() {
+         super();
       }
       
-      public function SpouseWrapper(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return new String();
       }
       
-      public function get name() : String
-      {
-         //Décompilation abandonné
+      public function get id() : uint {
+         return new uint();
       }
       
-      public function get id() : uint
-      {
-         //Décompilation abandonné
+      public function get entityLook() : Object {
+         return new Object();
       }
       
-      public function get entityLook() : Object
-      {
-         //Décompilation abandonné
+      public function get level() : int {
+         return new int();
       }
       
-      public function get level() : int
-      {
-         //Décompilation abandonné
+      public function get breed() : uint {
+         return new uint();
       }
       
-      public function get breed() : uint
-      {
-         //Décompilation abandonné
+      public function get sex() : int {
+         return new int();
       }
       
-      public function get sex() : int
-      {
-         //Décompilation abandonné
+      public function get online() : Boolean {
+         return new Boolean();
       }
       
-      public function get online() : Boolean
-      {
-         //Décompilation abandonné
+      public function get mapId() : uint {
+         return new uint();
       }
       
-      public function get mapId() : uint
-      {
-         //Décompilation abandonné
+      public function get subareaId() : uint {
+         return new uint();
       }
       
-      public function get subareaId() : uint
-      {
-         //Décompilation abandonné
+      public function get inFight() : Boolean {
+         return new Boolean();
       }
       
-      public function get inFight() : Boolean
-      {
-         //Décompilation abandonné
+      public function get followSpouse() : Boolean {
+         return new Boolean();
       }
       
-      public function get followSpouse() : Boolean
-      {
-         //Décompilation abandonné
+      public function get guildName() : String {
+         return new String();
       }
       
-      public function get guildName() : String
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get alignmentSide() : int
-      {
-         //Décompilation abandonné
+      public function get alignmentSide() : int {
+         return new int();
       }
    }
 }

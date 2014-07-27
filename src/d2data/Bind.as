@@ -1,67 +1,49 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class Bind extends ReadOnlyData
+   public class Bind extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function Bind() {
+         super();
       }
       
-      public function Bind(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get key() : String {
+         return new String();
       }
       
-      public function get key() : String
-      {
-         //Décompilation abandonné
+      public function get targetedShortcut() : String {
+         return new String();
       }
       
-      public function get targetedShortcut() : String
-      {
-         //Décompilation abandonné
+      public function get alt() : Boolean {
+         return new Boolean();
       }
       
-      public function get alt() : Boolean
-      {
-         //Décompilation abandonné
+      public function get ctrl() : Boolean {
+         return new Boolean();
       }
       
-      public function get ctrl() : Boolean
-      {
-         //Décompilation abandonné
+      public function get shift() : Boolean {
+         return new Boolean();
       }
       
-      public function get shift() : Boolean
-      {
-         //Décompilation abandonné
+      public function get disabled() : Boolean {
+         return new Boolean();
       }
       
-      public function get disabled() : Boolean
-      {
-         //Décompilation abandonné
+      public function toString() : String {
+         return null;
       }
       
-      public function toString() : String
-      {
-         //Décompilation abandonné
+      public function equals(s:Bind) : Boolean {
+         return false;
       }
       
-      public function equals(param1:Bind) : Boolean
-      {
-         //Décompilation abandonné
+      public function reset() : void {
       }
       
-      public function reset() : void
-      {
-         //Décompilation abandonné
-      }
-      
-      public function copy() : Bind
-      {
-         //Décompilation abandonné
+      public function copy() : Bind {
+         return null;
       }
    }
 }

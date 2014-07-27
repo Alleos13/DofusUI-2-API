@@ -1,102 +1,98 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class SubArea extends ReadOnlyData
+   public class SubArea extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function SubArea() {
+         super();
       }
       
-      public function SubArea(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get areaId() : int {
+         return new int();
       }
       
-      public function get areaId() : int
-      {
-         //Décompilation abandonné
+      public function get ambientSounds() : Object {
+         return new Object();
       }
       
-      public function get ambientSounds() : Object
-      {
-         //Décompilation abandonné
+      public function get mapIds() : Object {
+         return new Object();
       }
       
-      public function get mapIds() : Object
-      {
-         //Décompilation abandonné
+      public function get bounds() : Object {
+         return new Object();
       }
       
-      public function get bounds() : Object
-      {
-         //Décompilation abandonné
+      public function get shape() : Object {
+         return new Object();
       }
       
-      public function get shape() : Object
-      {
-         //Décompilation abandonné
+      public function get customWorldMap() : Object {
+         return new Object();
       }
       
-      public function get customWorldMap() : Object
-      {
-         //Décompilation abandonné
+      public function get packId() : int {
+         return new int();
       }
       
-      public function get packId() : int
-      {
-         //Décompilation abandonné
+      public function get level() : uint {
+         return new uint();
       }
       
-      public function get level() : uint
-      {
-         //Décompilation abandonné
+      public function get isConquestVillage() : Boolean {
+         return new Boolean();
       }
       
-      public function get isConquestVillage() : Boolean
-      {
-         //Décompilation abandonné
+      public function get basicAccountAllowed() : Boolean {
+         return new Boolean();
       }
       
-      public function get basicAccountAllowed() : Boolean
-      {
-         //Décompilation abandonné
+      public function get displayOnWorldMap() : Boolean {
+         return new Boolean();
       }
       
-      public function get displayOnWorldMap() : Boolean
-      {
-         //Décompilation abandonné
+      public function get monsters() : Object {
+         return new Object();
       }
       
-      public function get monsters() : Object
-      {
-         //Décompilation abandonné
+      public function get entranceMapIds() : Object {
+         return new Object();
       }
       
-      public function get entranceMapIds() : Object
-      {
-         //Décompilation abandonné
+      public function get exitMapIds() : Object {
+         return new Object();
       }
       
-      public function get exitMapIds() : Object
-      {
-         //Décompilation abandonné
+      public function get capturable() : Boolean {
+         return new Boolean();
       }
       
-      public function get capturable() : Boolean
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
+      }
+      
+      public function get area() : Area {
+         return null;
+      }
+      
+      public function get worldmap() : WorldMap {
+         return null;
+      }
+      
+      public function get hasCustomWorldMap() : Boolean {
+         return false;
+      }
+      
+      public function get center() : Object {
+         return null;
       }
    }
 }

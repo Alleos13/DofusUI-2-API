@@ -1,37 +1,30 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class Interactive extends ReadOnlyData
+   public class Interactive extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function Interactive() {
+         super();
       }
       
-      public function Interactive(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get actionId() : int {
+         return new int();
       }
       
-      public function get actionId() : int
-      {
-         //Décompilation abandonné
+      public function get displayTooltip() : Boolean {
+         return new Boolean();
       }
       
-      public function get displayTooltip() : Boolean
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
       }
    }
 }

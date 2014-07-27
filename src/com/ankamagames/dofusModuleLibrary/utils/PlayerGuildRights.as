@@ -9,7 +9,7 @@ package com.ankamagames.dofusModuleLibrary.utils
       
       public static function isBoss(pPlayerRights:uint) : Boolean {
          return (1 & pPlayerRights) > 0;
-      }
+      } 
       
       public static function manageGuildBoosts(pPlayerRights:uint) : Boolean {
          return (isBoss(pPlayerRights)) || ((2 & pPlayerRights) > 0);

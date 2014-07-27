@@ -3,28 +3,28 @@ package d2data
    public class PresetWrapper extends ItemWrapper
    {
       
-      {
-      //Décompilation abandonné
+      public function PresetWrapper() {
+         super();
       }
       
-      public function PresetWrapper(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get gfxId() : int {
+         return new int();
       }
       
-      public function get gfxId() : int
-      {
-         //Décompilation abandonné
+      public function get _objects() : Object {
+         return new Object();
       }
       
-      public function get _objects() : Object
-      {
-         //Décompilation abandonné
+      public function get mount() : Boolean {
+         return new Boolean();
       }
       
-      public function get mount() : Boolean
-      {
-         //Décompilation abandonné
+      public function get objects() : Object {
+         return null;
+      }
+      
+      public function get uri() : Object {
+         return null;
       }
    }
 }

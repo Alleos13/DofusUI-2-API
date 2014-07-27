@@ -1,37 +1,34 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class AlmanaxCalendar extends ReadOnlyData
+   public class AlmanaxCalendar extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function AlmanaxCalendar() {
+         super();
       }
       
-      public function AlmanaxCalendar(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get descId() : uint {
+         return new uint();
       }
       
-      public function get descId() : uint
-      {
-         //Décompilation abandonné
+      public function get npcId() : int {
+         return new int();
       }
       
-      public function get npcId() : int
-      {
-         //Décompilation abandonné
+      public function get bonusName() : String {
+         return null;
+      }
+      
+      public function get bonusDescription() : String {
+         return null;
       }
    }
 }

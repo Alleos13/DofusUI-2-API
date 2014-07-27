@@ -1,52 +1,42 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class ChatChannel extends ReadOnlyData
+   public class ChatChannel extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function ChatChannel() {
+         super();
       }
       
-      public function ChatChannel(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : uint {
+         return new uint();
       }
       
-      public function get id() : uint
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get descriptionId() : uint {
+         return new uint();
       }
       
-      public function get descriptionId() : uint
-      {
-         //Décompilation abandonné
+      public function get shortcut() : String {
+         return new String();
       }
       
-      public function get shortcut() : String
-      {
-         //Décompilation abandonné
+      public function get shortcutKey() : String {
+         return new String();
       }
       
-      public function get shortcutKey() : String
-      {
-         //Décompilation abandonné
+      public function get isPrivate() : Boolean {
+         return new Boolean();
       }
       
-      public function get isPrivate() : Boolean
-      {
-         //Décompilation abandonné
+      public function get allowObjects() : Boolean {
+         return new Boolean();
       }
       
-      public function get allowObjects() : Boolean
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
       }
    }
 }

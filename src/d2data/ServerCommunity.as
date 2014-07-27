@@ -1,37 +1,30 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class ServerCommunity extends ReadOnlyData
+   public class ServerCommunity extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function ServerCommunity() {
+         super();
       }
       
-      public function ServerCommunity(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get shortId() : String {
+         return new String();
       }
       
-      public function get shortId() : String
-      {
-         //Décompilation abandonné
+      public function get defaultCountries() : Object {
+         return new Object();
       }
       
-      public function get defaultCountries() : Object
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
       }
    }
 }

@@ -1,72 +1,58 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class MonsterDrop extends ReadOnlyData
+   public class MonsterDrop extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function MonsterDrop() {
+         super();
       }
       
-      public function MonsterDrop(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get dropId() : uint {
+         return new uint();
       }
       
-      public function get dropId() : uint
-      {
-         //Décompilation abandonné
+      public function get monsterId() : int {
+         return new int();
       }
       
-      public function get monsterId() : int
-      {
-         //Décompilation abandonné
+      public function get objectId() : int {
+         return new int();
       }
       
-      public function get objectId() : int
-      {
-         //Décompilation abandonné
+      public function get percentDropForGrade1() : Number {
+         return new Number();
       }
       
-      public function get percentDropForGrade1() : Number
-      {
-         //Décompilation abandonné
+      public function get percentDropForGrade2() : Number {
+         return new Number();
       }
       
-      public function get percentDropForGrade2() : Number
-      {
-         //Décompilation abandonné
+      public function get percentDropForGrade3() : Number {
+         return new Number();
       }
       
-      public function get percentDropForGrade3() : Number
-      {
-         //Décompilation abandonné
+      public function get percentDropForGrade4() : Number {
+         return new Number();
       }
       
-      public function get percentDropForGrade4() : Number
-      {
-         //Décompilation abandonné
+      public function get percentDropForGrade5() : Number {
+         return new Number();
       }
       
-      public function get percentDropForGrade5() : Number
-      {
-         //Décompilation abandonné
+      public function get count() : int {
+         return new int();
       }
       
-      public function get count() : int
-      {
-         //Décompilation abandonné
+      public function get findCeil() : int {
+         return new int();
       }
       
-      public function get findCeil() : int
-      {
-         //Décompilation abandonné
+      public function get hasCriteria() : Boolean {
+         return new Boolean();
       }
       
-      public function get hasCriteria() : Boolean
-      {
-         //Décompilation abandonné
+      public function get monster() : Monster {
+         return null;
       }
    }
 }

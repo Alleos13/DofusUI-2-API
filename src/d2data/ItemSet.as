@@ -1,42 +1,34 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class ItemSet extends ReadOnlyData
+   public class ItemSet extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function ItemSet() {
+         super();
       }
       
-      public function ItemSet(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : uint {
+         return new uint();
       }
       
-      public function get id() : uint
-      {
-         //Décompilation abandonné
+      public function get items() : Object {
+         return new Object();
       }
       
-      public function get items() : Object
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get effects() : Object {
+         return new Object();
       }
       
-      public function get effects() : Object
-      {
-         //Décompilation abandonné
+      public function get bonusIsSecret() : Boolean {
+         return new Boolean();
       }
       
-      public function get bonusIsSecret() : Boolean
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
       }
    }
 }

@@ -1,52 +1,46 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class AlignmentRank extends ReadOnlyData
+   public class AlignmentRank extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function AlignmentRank() {
+         super();
       }
       
-      public function AlignmentRank(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get orderId() : uint {
+         return new uint();
       }
       
-      public function get orderId() : uint
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get descriptionId() : uint {
+         return new uint();
       }
       
-      public function get descriptionId() : uint
-      {
-         //Décompilation abandonné
+      public function get minimumAlignment() : int {
+         return new int();
       }
       
-      public function get minimumAlignment() : int
-      {
-         //Décompilation abandonné
+      public function get objectsStolen() : int {
+         return new int();
       }
       
-      public function get objectsStolen() : int
-      {
-         //Décompilation abandonné
+      public function get gifts() : Object {
+         return new Object();
       }
       
-      public function get gifts() : Object
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
+      }
+      
+      public function get description() : String {
+         return null;
       }
    }
 }

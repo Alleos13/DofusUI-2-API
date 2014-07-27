@@ -1,77 +1,66 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class Emoticon extends ReadOnlyData
+   public class Emoticon extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function Emoticon() {
+         super();
       }
       
-      public function Emoticon(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : uint {
+         return new uint();
       }
       
-      public function get id() : uint
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get shortcutId() : uint {
+         return new uint();
       }
       
-      public function get shortcutId() : uint
-      {
-         //Décompilation abandonné
+      public function get order() : uint {
+         return new uint();
       }
       
-      public function get order() : uint
-      {
-         //Décompilation abandonné
+      public function get defaultAnim() : String {
+         return new String();
       }
       
-      public function get defaultAnim() : String
-      {
-         //Décompilation abandonné
+      public function get persistancy() : Boolean {
+         return new Boolean();
       }
       
-      public function get persistancy() : Boolean
-      {
-         //Décompilation abandonné
+      public function get eight_directions() : Boolean {
+         return new Boolean();
       }
       
-      public function get eight_directions() : Boolean
-      {
-         //Décompilation abandonné
+      public function get aura() : Boolean {
+         return new Boolean();
       }
       
-      public function get aura() : Boolean
-      {
-         //Décompilation abandonné
+      public function get anims() : Object {
+         return new Object();
       }
       
-      public function get anims() : Object
-      {
-         //Décompilation abandonné
+      public function get cooldown() : uint {
+         return new uint();
       }
       
-      public function get cooldown() : uint
-      {
-         //Décompilation abandonné
+      public function get duration() : uint {
+         return new uint();
       }
       
-      public function get duration() : uint
-      {
-         //Décompilation abandonné
+      public function get weight() : uint {
+         return new uint();
       }
       
-      public function get weight() : uint
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
+      }
+      
+      public function get shortcut() : String {
+         return null;
       }
    }
 }

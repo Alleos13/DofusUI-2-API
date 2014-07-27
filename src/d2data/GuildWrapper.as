@@ -1,87 +1,154 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class GuildWrapper extends ReadOnlyData
+   public class GuildWrapper extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function GuildWrapper() {
+         super();
       }
       
-      public function GuildWrapper(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get guildId() : uint {
+         return new uint();
       }
       
-      public function get guildId() : uint
-      {
-         //Décompilation abandonné
+      public function get upEmblem() : EmblemWrapper {
+         return new EmblemWrapper();
       }
       
-      public function get upEmblem() : EmblemWrapper
-      {
-         //Décompilation abandonné
+      public function get backEmblem() : EmblemWrapper {
+         return new EmblemWrapper();
       }
       
-      public function get backEmblem() : EmblemWrapper
-      {
-         //Décompilation abandonné
+      public function get level() : uint {
+         return new uint();
       }
       
-      public function get level() : uint
-      {
-         //Décompilation abandonné
+      public function get enabled() : Boolean {
+         return new Boolean();
       }
       
-      public function get enabled() : Boolean
-      {
-         //Décompilation abandonné
+      public function get creationDate() : uint {
+         return new uint();
       }
       
-      public function get creationDate() : uint
-      {
-         //Décompilation abandonné
+      public function get leaderId() : uint {
+         return new uint();
       }
       
-      public function get leaderId() : uint
-      {
-         //Décompilation abandonné
+      public function get nbMembers() : uint {
+         return new uint();
       }
       
-      public function get nbMembers() : uint
-      {
-         //Décompilation abandonné
+      public function get nbConnectedMembers() : uint {
+         return new uint();
       }
       
-      public function get nbConnectedMembers() : uint
-      {
-         //Décompilation abandonné
+      public function get experience() : Number {
+         return new Number();
       }
       
-      public function get experience() : Number
-      {
-         //Décompilation abandonné
+      public function get expLevelFloor() : Number {
+         return new Number();
       }
       
-      public function get expLevelFloor() : Number
-      {
-         //Décompilation abandonné
+      public function get expNextLevelFloor() : Number {
+         return new Number();
       }
       
-      public function get expNextLevelFloor() : Number
-      {
-         //Décompilation abandonné
+      public function get alliance() : AllianceWrapper {
+         return new AllianceWrapper();
       }
       
-      public function get alliance() : AllianceWrapper
-      {
-         //Décompilation abandonné
+      public function get allianceTag() : String {
+         return new String();
       }
       
-      public function get allianceTag() : String
-      {
-         //Décompilation abandonné
+      public function get guildName() : String {
+         return null;
+      }
+      
+      public function get realGuildName() : String {
+         return null;
+      }
+      
+      public function get memberRightsNumber() : uint {
+         return 0;
+      }
+      
+      public function get memberRights() : Object {
+         return null;
+      }
+      
+      public function get isBoss() : Boolean {
+         return false;
+      }
+      
+      public function get manageGuildBoosts() : Boolean {
+         return false;
+      }
+      
+      public function get manageRights() : Boolean {
+         return false;
+      }
+      
+      public function get inviteNewMembers() : Boolean {
+         return false;
+      }
+      
+      public function get banMembers() : Boolean {
+         return false;
+      }
+      
+      public function get manageXPContribution() : Boolean {
+         return false;
+      }
+      
+      public function get manageRanks() : Boolean {
+         return false;
+      }
+      
+      public function get hireTaxCollector() : Boolean {
+         return false;
+      }
+      
+      public function get manageMyXpContribution() : Boolean {
+         return false;
+      }
+      
+      public function get collect() : Boolean {
+         return false;
+      }
+      
+      public function get manageLightRights() : Boolean {
+         return false;
+      }
+      
+      public function get useFarms() : Boolean {
+         return false;
+      }
+      
+      public function get organizeFarms() : Boolean {
+         return false;
+      }
+      
+      public function get takeOthersRidesInFarm() : Boolean {
+         return false;
+      }
+      
+      public function get prioritizeMeInDefense() : Boolean {
+         return false;
+      }
+      
+      public function get collectMyTaxCollectors() : Boolean {
+         return false;
+      }
+      
+      public function get setAlliancePrism() : Boolean {
+         return false;
+      }
+      
+      public function get talkInAllianceChannel() : Boolean {
+         return false;
       }
    }
 }

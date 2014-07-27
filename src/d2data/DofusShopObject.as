@@ -1,17 +1,22 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class DofusShopObject extends ReadOnlyData
+   public class DofusShopObject extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function DofusShopObject() {
+         super();
       }
       
-      public function DofusShopObject(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return 0;
+      }
+      
+      public function get name() : String {
+         return null;
+      }
+      
+      public function get description() : String {
+         return null;
       }
    }
 }

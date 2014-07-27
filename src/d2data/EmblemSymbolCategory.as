@@ -1,27 +1,22 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class EmblemSymbolCategory extends ReadOnlyData
+   public class EmblemSymbolCategory extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function EmblemSymbolCategory() {
+         super();
       }
       
-      public function EmblemSymbolCategory(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
       }
    }
 }

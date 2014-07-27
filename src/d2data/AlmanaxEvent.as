@@ -1,57 +1,42 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class AlmanaxEvent extends ReadOnlyData
+   public class AlmanaxEvent extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function AlmanaxEvent() {
+         super();
       }
       
-      public function AlmanaxEvent(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return new String();
       }
       
-      public function get name() : String
-      {
-         //Décompilation abandonné
+      public function get bossText() : String {
+         return new String();
       }
       
-      public function get bossText() : String
-      {
-         //Décompilation abandonné
+      public function get ephemeris() : String {
+         return new String();
       }
       
-      public function get ephemeris() : String
-      {
-         //Décompilation abandonné
+      public function get rubrikabrax() : String {
+         return new String();
       }
       
-      public function get rubrikabrax() : String
-      {
-         //Décompilation abandonné
+      public function get isFest() : Boolean {
+         return new Boolean();
       }
       
-      public function get isFest() : Boolean
-      {
-         //Décompilation abandonné
+      public function get festText() : String {
+         return new String();
       }
       
-      public function get festText() : String
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get webImageUrl() : String
-      {
-         //Décompilation abandonné
+      public function get webImageUrl() : String {
+         return new String();
       }
    }
 }

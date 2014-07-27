@@ -1,62 +1,50 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class ActionDescription extends ReadOnlyData
+   public class ActionDescription extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function ActionDescription() {
+         super();
       }
       
-      public function ActionDescription(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : uint {
+         return new uint();
       }
       
-      public function get id() : uint
-      {
-         //Décompilation abandonné
+      public function get typeId() : uint {
+         return new uint();
       }
       
-      public function get typeId() : uint
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return new String();
       }
       
-      public function get name() : String
-      {
-         //Décompilation abandonné
+      public function get descriptionId() : uint {
+         return new uint();
       }
       
-      public function get descriptionId() : uint
-      {
-         //Décompilation abandonné
+      public function get trusted() : Boolean {
+         return new Boolean();
       }
       
-      public function get trusted() : Boolean
-      {
-         //Décompilation abandonné
+      public function get needInteraction() : Boolean {
+         return new Boolean();
       }
       
-      public function get needInteraction() : Boolean
-      {
-         //Décompilation abandonné
+      public function get maxUsePerFrame() : uint {
+         return new uint();
       }
       
-      public function get maxUsePerFrame() : uint
-      {
-         //Décompilation abandonné
+      public function get minimalUseInterval() : uint {
+         return new uint();
       }
       
-      public function get minimalUseInterval() : uint
-      {
-         //Décompilation abandonné
+      public function get needConfirmation() : Boolean {
+         return new Boolean();
       }
       
-      public function get needConfirmation() : Boolean
-      {
-         //Décompilation abandonné
+      public function get description() : String {
+         return null;
       }
    }
 }

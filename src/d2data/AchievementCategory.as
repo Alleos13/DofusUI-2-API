@@ -1,52 +1,46 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class AchievementCategory extends ReadOnlyData
+   public class AchievementCategory extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function AchievementCategory() {
+         super();
       }
       
-      public function AchievementCategory(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : uint {
+         return new uint();
       }
       
-      public function get id() : uint
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get parentId() : uint {
+         return new uint();
       }
       
-      public function get parentId() : uint
-      {
-         //Décompilation abandonné
+      public function get icon() : String {
+         return new String();
       }
       
-      public function get icon() : String
-      {
-         //Décompilation abandonné
+      public function get order() : uint {
+         return new uint();
       }
       
-      public function get order() : uint
-      {
-         //Décompilation abandonné
+      public function get color() : String {
+         return new String();
       }
       
-      public function get color() : String
-      {
-         //Décompilation abandonné
+      public function get achievementIds() : Object {
+         return new Object();
       }
       
-      public function get achievementIds() : Object
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
+      }
+      
+      public function get achievements() : Object {
+         return null;
       }
    }
 }

@@ -1,32 +1,22 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class Pet extends ReadOnlyData
+   public class Pet extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function Pet() {
+         super();
       }
       
-      public function Pet(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get foodItems() : Object {
+         return new Object();
       }
       
-      public function get foodItems() : Object
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get foodTypes() : Object
-      {
-         //Décompilation abandonné
+      public function get foodTypes() : Object {
+         return new Object();
       }
    }
 }

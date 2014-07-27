@@ -1,37 +1,34 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class QuestCategory extends ReadOnlyData
+   public class QuestCategory extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function QuestCategory() {
+         super();
       }
       
-      public function QuestCategory(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : uint {
+         return new uint();
       }
       
-      public function get id() : uint
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get order() : uint {
+         return new uint();
       }
       
-      public function get order() : uint
-      {
-         //Décompilation abandonné
+      public function get questIds() : Object {
+         return new Object();
       }
       
-      public function get questIds() : Object
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
+      }
+      
+      public function get quests() : Object {
+         return null;
       }
    }
 }

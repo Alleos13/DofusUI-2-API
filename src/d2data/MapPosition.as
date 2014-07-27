@@ -1,67 +1,110 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class MapPosition extends ReadOnlyData
+   public class MapPosition extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function MapPosition() {
+         super();
       }
       
-      public function MapPosition(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get posX() : int {
+         return new int();
       }
       
-      public function get posX() : int
-      {
-         //Décompilation abandonné
+      public function get posY() : int {
+         return new int();
       }
       
-      public function get posY() : int
-      {
-         //Décompilation abandonné
+      public function get outdoor() : Boolean {
+         return new Boolean();
       }
       
-      public function get outdoor() : Boolean
-      {
-         //Décompilation abandonné
+      public function get capabilities() : int {
+         return new int();
       }
       
-      public function get capabilities() : int
-      {
-         //Décompilation abandonné
+      public function get nameId() : int {
+         return new int();
       }
       
-      public function get nameId() : int
-      {
-         //Décompilation abandonné
+      public function get sounds() : Object {
+         return new Object();
       }
       
-      public function get sounds() : Object
-      {
-         //Décompilation abandonné
+      public function get subAreaId() : int {
+         return new int();
       }
       
-      public function get subAreaId() : int
-      {
-         //Décompilation abandonné
+      public function get worldMap() : int {
+         return new int();
       }
       
-      public function get worldMap() : int
-      {
-         //Décompilation abandonné
+      public function get hasPriorityOnWorldmap() : Boolean {
+         return new Boolean();
       }
       
-      public function get hasPriorityOnWorldmap() : Boolean
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
+      }
+      
+      public function get subArea() : SubArea {
+         return null;
+      }
+      
+      public function get allowChallenge() : Boolean {
+         return false;
+      }
+      
+      public function get allowAggression() : Boolean {
+         return false;
+      }
+      
+      public function get allowTeleportTo() : Boolean {
+         return false;
+      }
+      
+      public function get allowTeleportFrom() : Boolean {
+         return false;
+      }
+      
+      public function get allowExchanges() : Boolean {
+         return false;
+      }
+      
+      public function get allowHumanVendor() : Boolean {
+         return false;
+      }
+      
+      public function get allowTaxCollector() : Boolean {
+         return false;
+      }
+      
+      public function get allowSoulCapture() : Boolean {
+         return false;
+      }
+      
+      public function get allowSoulSummon() : Boolean {
+         return false;
+      }
+      
+      public function get allowTavernRegen() : Boolean {
+         return false;
+      }
+      
+      public function get allowTombMode() : Boolean {
+         return false;
+      }
+      
+      public function get allowTeleportEverywhere() : Boolean {
+         return false;
+      }
+      
+      public function get allowFightChallenges() : Boolean {
+         return false;
       }
    }
 }

@@ -1,32 +1,26 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class AlignmentSide extends ReadOnlyData
+   public class AlignmentSide extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function AlignmentSide() {
+         super();
       }
       
-      public function AlignmentSide(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get canConquest() : Boolean {
+         return new Boolean();
       }
       
-      public function get canConquest() : Boolean
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
       }
    }
 }

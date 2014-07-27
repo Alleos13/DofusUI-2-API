@@ -1,97 +1,74 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class WorldMap extends ReadOnlyData
+   public class WorldMap extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function WorldMap() {
+         super();
       }
       
-      public function WorldMap(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get origineX() : int {
+         return new int();
       }
       
-      public function get origineX() : int
-      {
-         //Décompilation abandonné
+      public function get origineY() : int {
+         return new int();
       }
       
-      public function get origineY() : int
-      {
-         //Décompilation abandonné
+      public function get mapWidth() : Number {
+         return new Number();
       }
       
-      public function get mapWidth() : Number
-      {
-         //Décompilation abandonné
+      public function get mapHeight() : Number {
+         return new Number();
       }
       
-      public function get mapHeight() : Number
-      {
-         //Décompilation abandonné
+      public function get horizontalChunck() : uint {
+         return new uint();
       }
       
-      public function get horizontalChunck() : uint
-      {
-         //Décompilation abandonné
+      public function get verticalChunck() : uint {
+         return new uint();
       }
       
-      public function get verticalChunck() : uint
-      {
-         //Décompilation abandonné
+      public function get viewableEverywhere() : Boolean {
+         return new Boolean();
       }
       
-      public function get viewableEverywhere() : Boolean
-      {
-         //Décompilation abandonné
+      public function get minScale() : Number {
+         return new Number();
       }
       
-      public function get minScale() : Number
-      {
-         //Décompilation abandonné
+      public function get maxScale() : Number {
+         return new Number();
       }
       
-      public function get maxScale() : Number
-      {
-         //Décompilation abandonné
+      public function get startScale() : Number {
+         return new Number();
       }
       
-      public function get startScale() : Number
-      {
-         //Décompilation abandonné
+      public function get centerX() : int {
+         return new int();
       }
       
-      public function get centerX() : int
-      {
-         //Décompilation abandonné
+      public function get centerY() : int {
+         return new int();
       }
       
-      public function get centerY() : int
-      {
-         //Décompilation abandonné
+      public function get totalWidth() : int {
+         return new int();
       }
       
-      public function get totalWidth() : int
-      {
-         //Décompilation abandonné
+      public function get totalHeight() : int {
+         return new int();
       }
       
-      public function get totalHeight() : int
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get zoom() : Object
-      {
-         //Décompilation abandonné
+      public function get zoom() : Object {
+         return new Object();
       }
    }
 }

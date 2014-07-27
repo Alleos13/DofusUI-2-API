@@ -1,57 +1,62 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class Recipe extends ReadOnlyData
+   public class Recipe extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function Recipe() {
+         super();
       }
       
-      public function Recipe(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get resultId() : int {
+         return new int();
       }
       
-      public function get resultId() : int
-      {
-         //Décompilation abandonné
+      public function get resultNameId() : uint {
+         return new uint();
       }
       
-      public function get resultNameId() : uint
-      {
-         //Décompilation abandonné
+      public function get resultTypeId() : uint {
+         return new uint();
       }
       
-      public function get resultTypeId() : uint
-      {
-         //Décompilation abandonné
+      public function get resultLevel() : uint {
+         return new uint();
       }
       
-      public function get resultLevel() : uint
-      {
-         //Décompilation abandonné
+      public function get ingredientIds() : Object {
+         return new Object();
       }
       
-      public function get ingredientIds() : Object
-      {
-         //Décompilation abandonné
+      public function get quantities() : Object {
+         return new Object();
       }
       
-      public function get quantities() : Object
-      {
-         //Décompilation abandonné
+      public function get jobId() : int {
+         return new int();
       }
       
-      public function get jobId() : int
-      {
-         //Décompilation abandonné
+      public function get skillId() : int {
+         return new int();
       }
       
-      public function get skillId() : int
-      {
-         //Décompilation abandonné
+      public function get result() : ItemWrapper {
+         return null;
+      }
+      
+      public function get resultName() : String {
+         return null;
+      }
+      
+      public function get ingredients() : Object {
+         return null;
+      }
+      
+      public function get job() : Job {
+         return null;
+      }
+      
+      public function get skill() : Skill {
+         return null;
       }
    }
 }

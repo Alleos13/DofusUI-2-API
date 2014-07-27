@@ -1,37 +1,30 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class MonsterRace extends ReadOnlyData
+   public class MonsterRace extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function MonsterRace() {
+         super();
       }
       
-      public function MonsterRace(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get superRaceId() : int {
+         return new int();
       }
       
-      public function get superRaceId() : int
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get monsters() : Object {
+         return new Object();
       }
       
-      public function get monsters() : Object
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
       }
    }
 }

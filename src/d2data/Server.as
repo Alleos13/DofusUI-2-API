@@ -1,62 +1,66 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class Server extends ReadOnlyData
+   public class Server extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function Server() {
+         super();
       }
       
-      public function Server(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get commentId() : uint {
+         return new uint();
       }
       
-      public function get commentId() : uint
-      {
-         //Décompilation abandonné
+      public function get openingDate() : Number {
+         return new Number();
       }
       
-      public function get openingDate() : Number
-      {
-         //Décompilation abandonné
+      public function get language() : String {
+         return new String();
       }
       
-      public function get language() : String
-      {
-         //Décompilation abandonné
+      public function get populationId() : int {
+         return new int();
       }
       
-      public function get populationId() : int
-      {
-         //Décompilation abandonné
+      public function get gameTypeId() : uint {
+         return new uint();
       }
       
-      public function get gameTypeId() : uint
-      {
-         //Décompilation abandonné
+      public function get communityId() : int {
+         return new int();
       }
       
-      public function get communityId() : int
-      {
-         //Décompilation abandonné
+      public function get restrictedToLanguages() : Object {
+         return new Object();
       }
       
-      public function get restrictedToLanguages() : Object
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
+      }
+      
+      public function get comment() : String {
+         return null;
+      }
+      
+      public function get gameType() : ServerGameType {
+         return null;
+      }
+      
+      public function get community() : ServerCommunity {
+         return null;
+      }
+      
+      public function get population() : ServerPopulation {
+         return null;
       }
    }
 }

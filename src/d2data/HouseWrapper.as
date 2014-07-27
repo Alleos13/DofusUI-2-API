@@ -1,62 +1,46 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class HouseWrapper extends ReadOnlyData
+   public class HouseWrapper extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function HouseWrapper() {
+         super();
       }
       
-      public function HouseWrapper(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get houseId() : int {
+         return new int();
       }
       
-      public function get houseId() : int
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return new String();
       }
       
-      public function get name() : String
-      {
-         //Décompilation abandonné
+      public function get description() : String {
+         return new String();
       }
       
-      public function get description() : String
-      {
-         //Décompilation abandonné
+      public function get ownerName() : String {
+         return new String();
       }
       
-      public function get ownerName() : String
-      {
-         //Décompilation abandonné
+      public function get isOnSale() : Boolean {
+         return new Boolean();
       }
       
-      public function get isOnSale() : Boolean
-      {
-         //Décompilation abandonné
+      public function get gfxId() : int {
+         return new int();
       }
       
-      public function get gfxId() : int
-      {
-         //Décompilation abandonné
+      public function get defaultPrice() : uint {
+         return new uint();
       }
       
-      public function get defaultPrice() : uint
-      {
-         //Décompilation abandonné
+      public function get guildIdentity() : GuildWrapper {
+         return new GuildWrapper();
       }
       
-      public function get guildIdentity() : GuildWrapper
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get isSaleLocked() : Boolean
-      {
-         //Décompilation abandonné
+      public function get isSaleLocked() : Boolean {
+         return new Boolean();
       }
    }
 }

@@ -1,32 +1,26 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class ServerPopulation extends ReadOnlyData
+   public class ServerPopulation extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function ServerPopulation() {
+         super();
       }
       
-      public function ServerPopulation(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get weight() : int {
+         return new int();
       }
       
-      public function get weight() : int
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
       }
    }
 }

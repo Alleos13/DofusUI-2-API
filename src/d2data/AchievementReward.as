@@ -1,67 +1,50 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class AchievementReward extends ReadOnlyData
+   public class AchievementReward extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function AchievementReward() {
+         super();
       }
       
-      public function AchievementReward(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : uint {
+         return new uint();
       }
       
-      public function get id() : uint
-      {
-         //Décompilation abandonné
+      public function get achievementId() : uint {
+         return new uint();
       }
       
-      public function get achievementId() : uint
-      {
-         //Décompilation abandonné
+      public function get levelMin() : int {
+         return new int();
       }
       
-      public function get levelMin() : int
-      {
-         //Décompilation abandonné
+      public function get levelMax() : int {
+         return new int();
       }
       
-      public function get levelMax() : int
-      {
-         //Décompilation abandonné
+      public function get itemsReward() : Object {
+         return new Object();
       }
       
-      public function get itemsReward() : Object
-      {
-         //Décompilation abandonné
+      public function get itemsQuantityReward() : Object {
+         return new Object();
       }
       
-      public function get itemsQuantityReward() : Object
-      {
-         //Décompilation abandonné
+      public function get emotesReward() : Object {
+         return new Object();
       }
       
-      public function get emotesReward() : Object
-      {
-         //Décompilation abandonné
+      public function get spellsReward() : Object {
+         return new Object();
       }
       
-      public function get spellsReward() : Object
-      {
-         //Décompilation abandonné
+      public function get titlesReward() : Object {
+         return new Object();
       }
       
-      public function get titlesReward() : Object
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get ornamentsReward() : Object
-      {
-         //Décompilation abandonné
+      public function get ornamentsReward() : Object {
+         return new Object();
       }
    }
 }

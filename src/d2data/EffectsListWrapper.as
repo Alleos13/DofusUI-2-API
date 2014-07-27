@@ -1,22 +1,22 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class EffectsListWrapper extends ReadOnlyData
+   public class EffectsListWrapper extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function EffectsListWrapper() {
+         super();
       }
       
-      public function EffectsListWrapper(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get effects() : Object {
+         return new Object();
       }
       
-      public function get effects() : Object
-      {
-         //Décompilation abandonné
+      public function get categories() : Object {
+         return null;
+      }
+      
+      public function get buffArray() : Object {
+         return null;
       }
    }
 }

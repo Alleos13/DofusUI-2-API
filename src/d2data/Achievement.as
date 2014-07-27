@@ -1,82 +1,74 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class Achievement extends ReadOnlyData
+   public class Achievement extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function Achievement() {
+         super();
       }
       
-      public function Achievement(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : uint {
+         return new uint();
       }
       
-      public function get id() : uint
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get categoryId() : uint {
+         return new uint();
       }
       
-      public function get categoryId() : uint
-      {
-         //Décompilation abandonné
+      public function get descriptionId() : uint {
+         return new uint();
       }
       
-      public function get descriptionId() : uint
-      {
-         //Décompilation abandonné
+      public function get iconId() : uint {
+         return new uint();
       }
       
-      public function get iconId() : uint
-      {
-         //Décompilation abandonné
+      public function get points() : uint {
+         return new uint();
       }
       
-      public function get points() : uint
-      {
-         //Décompilation abandonné
+      public function get level() : uint {
+         return new uint();
       }
       
-      public function get level() : uint
-      {
-         //Décompilation abandonné
+      public function get order() : uint {
+         return new uint();
       }
       
-      public function get order() : uint
-      {
-         //Décompilation abandonné
+      public function get kamasRatio() : Number {
+         return new Number();
       }
       
-      public function get kamasRatio() : Number
-      {
-         //Décompilation abandonné
+      public function get experienceRatio() : Number {
+         return new Number();
       }
       
-      public function get experienceRatio() : Number
-      {
-         //Décompilation abandonné
+      public function get kamasScaleWithPlayerLevel() : Boolean {
+         return new Boolean();
       }
       
-      public function get kamasScaleWithPlayerLevel() : Boolean
-      {
-         //Décompilation abandonné
+      public function get objectiveIds() : Object {
+         return new Object();
       }
       
-      public function get objectiveIds() : Object
-      {
-         //Décompilation abandonné
+      public function get rewardIds() : Object {
+         return new Object();
       }
       
-      public function get rewardIds() : Object
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
+      }
+      
+      public function get description() : String {
+         return null;
+      }
+      
+      public function get category() : AchievementCategory {
+         return null;
       }
    }
 }

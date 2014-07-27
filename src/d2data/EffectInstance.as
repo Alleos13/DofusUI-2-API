@@ -1,102 +1,122 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class EffectInstance extends ReadOnlyData
+   public class EffectInstance extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function EffectInstance() {
+         super();
       }
       
-      public function EffectInstance(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get effectId() : uint {
+         return new uint();
       }
       
-      public function get effectId() : uint
-      {
-         //Décompilation abandonné
+      public function get targetId() : int {
+         return new int();
       }
       
-      public function get targetId() : int
-      {
-         //Décompilation abandonné
+      public function get targetMask() : String {
+         return new String();
       }
       
-      public function get targetMask() : String
-      {
-         //Décompilation abandonné
+      public function get duration() : int {
+         return new int();
       }
       
-      public function get duration() : int
-      {
-         //Décompilation abandonné
+      public function get delay() : int {
+         return new int();
       }
       
-      public function get delay() : int
-      {
-         //Décompilation abandonné
+      public function get random() : int {
+         return new int();
       }
       
-      public function get random() : int
-      {
-         //Décompilation abandonné
+      public function get group() : int {
+         return new int();
       }
       
-      public function get group() : int
-      {
-         //Décompilation abandonné
+      public function get modificator() : int {
+         return new int();
       }
       
-      public function get modificator() : int
-      {
-         //Décompilation abandonné
+      public function get trigger() : Boolean {
+         return new Boolean();
       }
       
-      public function get trigger() : Boolean
-      {
-         //Décompilation abandonné
+      public function get triggers() : String {
+         return new String();
       }
       
-      public function get triggers() : String
-      {
-         //Décompilation abandonné
+      public function get hidden() : Boolean {
+         return new Boolean();
       }
       
-      public function get hidden() : Boolean
-      {
-         //Décompilation abandonné
+      public function get order() : int {
+         return new int();
       }
       
-      public function get order() : int
-      {
-         //Décompilation abandonné
+      public function get zoneSize() : Object {
+         return new Object();
       }
       
-      public function get zoneSize() : Object
-      {
-         //Décompilation abandonné
+      public function get zoneShape() : uint {
+         return new uint();
       }
       
-      public function get zoneShape() : uint
-      {
-         //Décompilation abandonné
+      public function get zoneMinSize() : Object {
+         return new Object();
       }
       
-      public function get zoneMinSize() : Object
-      {
-         //Décompilation abandonné
+      public function get zoneEfficiencyPercent() : Object {
+         return new Object();
       }
       
-      public function get zoneEfficiencyPercent() : Object
-      {
-         //Décompilation abandonné
+      public function get zoneMaxEfficiency() : Object {
+         return new Object();
       }
       
-      public function get zoneMaxEfficiency() : Object
-      {
-         //Décompilation abandonné
+      public function get rawZone() : String {
+         return null;
+      }
+      
+      public function get durationString() : String {
+         return null;
+      }
+      
+      public function get category() : int {
+         return 0;
+      }
+      
+      public function get showInSet() : int {
+         return 0;
+      }
+      
+      public function get parameter0() : Object {
+         return null;
+      }
+      
+      public function get parameter1() : Object {
+         return null;
+      }
+      
+      public function get parameter2() : Object {
+         return null;
+      }
+      
+      public function get parameter3() : Object {
+         return null;
+      }
+      
+      public function get parameter4() : Object {
+         return null;
+      }
+      
+      public function get description() : String {
+         return null;
+      }
+      
+      public function get theoreticalDescription() : String {
+         return null;
       }
    }
 }

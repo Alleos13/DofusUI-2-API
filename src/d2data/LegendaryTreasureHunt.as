@@ -1,52 +1,54 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class LegendaryTreasureHunt extends ReadOnlyData
+   public class LegendaryTreasureHunt extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function LegendaryTreasureHunt() {
+         super();
       }
       
-      public function LegendaryTreasureHunt(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : uint {
+         return new uint();
       }
       
-      public function get id() : uint
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get level() : uint {
+         return new uint();
       }
       
-      public function get level() : uint
-      {
-         //Décompilation abandonné
+      public function get chestId() : uint {
+         return new uint();
       }
       
-      public function get chestId() : uint
-      {
-         //Décompilation abandonné
+      public function get monsterId() : uint {
+         return new uint();
       }
       
-      public function get monsterId() : uint
-      {
-         //Décompilation abandonné
+      public function get mapItemId() : uint {
+         return new uint();
       }
       
-      public function get mapItemId() : uint
-      {
-         //Décompilation abandonné
+      public function get xpRatio() : Number {
+         return new Number();
       }
       
-      public function get xpRatio() : Number
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
+      }
+      
+      public function get monster() : Monster {
+         return null;
+      }
+      
+      public function get chest() : Item {
+         return null;
+      }
+      
+      public function get experienceReward() : int {
+         return 0;
       }
    }
 }

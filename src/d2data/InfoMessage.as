@@ -1,32 +1,26 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class InfoMessage extends ReadOnlyData
+   public class InfoMessage extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function InfoMessage() {
+         super();
       }
       
-      public function InfoMessage(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get typeId() : uint {
+         return new uint();
       }
       
-      public function get typeId() : uint
-      {
-         //Décompilation abandonné
+      public function get messageId() : uint {
+         return new uint();
       }
       
-      public function get messageId() : uint
-      {
-         //Décompilation abandonné
+      public function get textId() : uint {
+         return new uint();
       }
       
-      public function get textId() : uint
-      {
-         //Décompilation abandonné
+      public function get text() : String {
+         return null;
       }
    }
 }

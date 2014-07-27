@@ -1,47 +1,46 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class Area extends ReadOnlyData
+   public class Area extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function Area() {
+         super();
       }
       
-      public function Area(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get superAreaId() : int {
+         return new int();
       }
       
-      public function get superAreaId() : int
-      {
-         //Décompilation abandonné
+      public function get containHouses() : Boolean {
+         return new Boolean();
       }
       
-      public function get containHouses() : Boolean
-      {
-         //Décompilation abandonné
+      public function get containPaddocks() : Boolean {
+         return new Boolean();
       }
       
-      public function get containPaddocks() : Boolean
-      {
-         //Décompilation abandonné
+      public function get bounds() : Object {
+         return new Object();
       }
       
-      public function get bounds() : Object
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
+      }
+      
+      public function get superArea() : SuperArea {
+         return null;
+      }
+      
+      public function get hasVisibleSubAreas() : Boolean {
+         return false;
       }
    }
 }

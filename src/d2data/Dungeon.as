@@ -1,47 +1,38 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class Dungeon extends ReadOnlyData
+   public class Dungeon extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function Dungeon() {
+         super();
       }
       
-      public function Dungeon(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get optimalPlayerLevel() : int {
+         return new int();
       }
       
-      public function get optimalPlayerLevel() : int
-      {
-         //Décompilation abandonné
+      public function get mapIds() : Object {
+         return new Object();
       }
       
-      public function get mapIds() : Object
-      {
-         //Décompilation abandonné
+      public function get entranceMapId() : int {
+         return new int();
       }
       
-      public function get entranceMapId() : int
-      {
-         //Décompilation abandonné
+      public function get exitMapId() : int {
+         return new int();
       }
       
-      public function get exitMapId() : int
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
       }
    }
 }

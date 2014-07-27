@@ -1,37 +1,26 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class CompanionSpell extends ReadOnlyData
+   public class CompanionSpell extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function CompanionSpell() {
+         super();
       }
       
-      public function CompanionSpell(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get spellId() : int {
+         return new int();
       }
       
-      public function get spellId() : int
-      {
-         //Décompilation abandonné
+      public function get companionId() : int {
+         return new int();
       }
       
-      public function get companionId() : int
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get gradeByLevel() : String
-      {
-         //Décompilation abandonné
+      public function get gradeByLevel() : String {
+         return new String();
       }
    }
 }

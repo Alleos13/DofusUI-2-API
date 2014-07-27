@@ -1,37 +1,34 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class SuperArea extends ReadOnlyData
+   public class SuperArea extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function SuperArea() {
+         super();
       }
       
-      public function SuperArea(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get worldmapId() : uint {
+         return new uint();
       }
       
-      public function get worldmapId() : uint
-      {
-         //Décompilation abandonné
+      public function get hasWorldMap() : Boolean {
+         return new Boolean();
       }
       
-      public function get hasWorldMap() : Boolean
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
+      }
+      
+      public function get worldmap() : WorldMap {
+         return null;
       }
    }
 }

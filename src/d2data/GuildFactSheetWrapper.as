@@ -1,92 +1,90 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class GuildFactSheetWrapper extends ReadOnlyData
+   public class GuildFactSheetWrapper extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function GuildFactSheetWrapper() {
+         super();
       }
       
-      public function GuildFactSheetWrapper(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get guildId() : uint {
+         return new uint();
       }
       
-      public function get guildId() : uint
-      {
-         //Décompilation abandonné
+      public function get upEmblem() : EmblemWrapper {
+         return new EmblemWrapper();
       }
       
-      public function get upEmblem() : EmblemWrapper
-      {
-         //Décompilation abandonné
+      public function get backEmblem() : EmblemWrapper {
+         return new EmblemWrapper();
       }
       
-      public function get backEmblem() : EmblemWrapper
-      {
-         //Décompilation abandonné
+      public function get leaderId() : uint {
+         return new uint();
       }
       
-      public function get leaderId() : uint
-      {
-         //Décompilation abandonné
+      public function get guildLevel() : uint {
+         return new uint();
       }
       
-      public function get guildLevel() : uint
-      {
-         //Décompilation abandonné
+      public function get nbMembers() : uint {
+         return new uint();
       }
       
-      public function get nbMembers() : uint
-      {
-         //Décompilation abandonné
+      public function get creationDate() : Number {
+         return new Number();
       }
       
-      public function get creationDate() : Number
-      {
-         //Décompilation abandonné
+      public function get members() : Object {
+         return new Object();
       }
       
-      public function get members() : Object
-      {
-         //Décompilation abandonné
+      public function get allianceId() : uint {
+         return new uint();
       }
       
-      public function get allianceId() : uint
-      {
-         //Décompilation abandonné
+      public function get allianceLeader() : Boolean {
+         return new Boolean();
       }
       
-      public function get allianceLeader() : Boolean
-      {
-         //Décompilation abandonné
+      public function get nbConnectedMembers() : uint {
+         return new uint();
       }
       
-      public function get nbConnectedMembers() : uint
-      {
-         //Décompilation abandonné
+      public function get nbTaxCollectors() : uint {
+         return new uint();
       }
       
-      public function get nbTaxCollectors() : uint
-      {
-         //Décompilation abandonné
+      public function get lastActivity() : Number {
+         return new Number();
       }
       
-      public function get lastActivity() : Number
-      {
-         //Décompilation abandonné
+      public function get enabled() : Boolean {
+         return new Boolean();
       }
       
-      public function get enabled() : Boolean
-      {
-         //Décompilation abandonné
+      public function get hoursSinceLastConnection() : Number {
+         return new Number();
       }
       
-      public function get hoursSinceLastConnection() : Number
-      {
-         //Décompilation abandonné
+      public function get guildName() : String {
+         return null;
+      }
+      
+      public function get realGuildName() : String {
+         return null;
+      }
+      
+      public function get allianceName() : String {
+         return null;
+      }
+      
+      public function get allianceTag() : String {
+         return null;
+      }
+      
+      public function get leaderName() : String {
+         return null;
       }
    }
 }

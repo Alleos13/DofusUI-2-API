@@ -1,17 +1,26 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class WorldPoint extends ReadOnlyData
+   public class WorldPoint extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function WorldPoint() {
+         super();
       }
       
-      public function WorldPoint(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get mapId() : uint {
+         return 0;
+      }
+      
+      public function get worldId() : uint {
+         return 0;
+      }
+      
+      public function get x() : int {
+         return 0;
+      }
+      
+      public function get y() : int {
+         return 0;
       }
    }
 }

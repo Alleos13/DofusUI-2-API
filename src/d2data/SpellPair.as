@@ -1,37 +1,34 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class SpellPair extends ReadOnlyData
+   public class SpellPair extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function SpellPair() {
+         super();
       }
       
-      public function SpellPair(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get descriptionId() : uint {
+         return new uint();
       }
       
-      public function get descriptionId() : uint
-      {
-         //Décompilation abandonné
+      public function get iconId() : uint {
+         return new uint();
       }
       
-      public function get iconId() : uint
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
+      }
+      
+      public function get description() : String {
+         return null;
       }
    }
 }

@@ -1,77 +1,70 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class Spell extends ReadOnlyData
+   public class Spell extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function Spell() {
+         super();
       }
       
-      public function Spell(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get descriptionId() : uint {
+         return new uint();
       }
       
-      public function get descriptionId() : uint
-      {
-         //Décompilation abandonné
+      public function get typeId() : uint {
+         return new uint();
       }
       
-      public function get typeId() : uint
-      {
-         //Décompilation abandonné
+      public function get scriptParams() : String {
+         return new String();
       }
       
-      public function get scriptParams() : String
-      {
-         //Décompilation abandonné
+      public function get scriptParamsCritical() : String {
+         return new String();
       }
       
-      public function get scriptParamsCritical() : String
-      {
-         //Décompilation abandonné
+      public function get scriptId() : int {
+         return new int();
       }
       
-      public function get scriptId() : int
-      {
-         //Décompilation abandonné
+      public function get scriptIdCritical() : int {
+         return new int();
       }
       
-      public function get scriptIdCritical() : int
-      {
-         //Décompilation abandonné
+      public function get iconId() : uint {
+         return new uint();
       }
       
-      public function get iconId() : uint
-      {
-         //Décompilation abandonné
+      public function get spellLevels() : Object {
+         return new Object();
       }
       
-      public function get spellLevels() : Object
-      {
-         //Décompilation abandonné
+      public function get useParamCache() : Boolean {
+         return new Boolean();
       }
       
-      public function get useParamCache() : Boolean
-      {
-         //Décompilation abandonné
+      public function get verbose_cast() : Boolean {
+         return new Boolean();
       }
       
-      public function get verbose_cast() : Boolean
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
+      }
+      
+      public function get description() : String {
+         return null;
+      }
+      
+      public function get type() : SpellType {
+         return null;
       }
    }
 }

@@ -3,13 +3,16 @@ package d2data
    public class ChatSentenceWithRecipient extends ChatSentenceWithSource
    {
       
-      {
-      //Décompilation abandonné
+      public function ChatSentenceWithRecipient() {
+         super();
       }
       
-      public function ChatSentenceWithRecipient(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get receiverName() : String {
+         return null;
+      }
+      
+      public function get receiverId() : uint {
+         return 0;
       }
    }
 }

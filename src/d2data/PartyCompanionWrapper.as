@@ -3,28 +3,20 @@ package d2data
    public class PartyCompanionWrapper extends PartyMemberWrapper
    {
       
-      {
-      //Décompilation abandonné
+      public function PartyCompanionWrapper() {
+         super();
       }
       
-      public function PartyCompanionWrapper(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get companionGenericId() : uint {
+         return new uint();
       }
       
-      public function get companionGenericId() : uint
-      {
-         //Décompilation abandonné
+      public function get index() : uint {
+         return new uint();
       }
       
-      public function get index() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get masterName() : String
-      {
-         //Décompilation abandonné
+      public function get masterName() : String {
+         return new String();
       }
    }
 }

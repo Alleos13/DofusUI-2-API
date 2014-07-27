@@ -1,52 +1,42 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class CompanionCharacteristic extends ReadOnlyData
+   public class CompanionCharacteristic extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function CompanionCharacteristic() {
+         super();
       }
       
-      public function CompanionCharacteristic(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get labelId() : String {
+         return new String();
       }
       
-      public function get labelId() : String
-      {
-         //Décompilation abandonné
+      public function get companionId() : int {
+         return new int();
       }
       
-      public function get companionId() : int
-      {
-         //Décompilation abandonné
+      public function get order() : int {
+         return new int();
       }
       
-      public function get order() : int
-      {
-         //Décompilation abandonné
+      public function get initialValue() : int {
+         return new int();
       }
       
-      public function get initialValue() : int
-      {
-         //Décompilation abandonné
+      public function get levelPerValue() : int {
+         return new int();
       }
       
-      public function get levelPerValue() : int
-      {
-         //Décompilation abandonné
+      public function get valuePerLevel() : int {
+         return new int();
       }
       
-      public function get valuePerLevel() : int
-      {
-         //Décompilation abandonné
+      public function get label() : String {
+         return null;
       }
    }
 }

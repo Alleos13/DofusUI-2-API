@@ -1,67 +1,58 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class Companion extends ReadOnlyData
+   public class Companion extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function Companion() {
+         super();
       }
       
-      public function Companion(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get look() : String {
+         return new String();
       }
       
-      public function get look() : String
-      {
-         //Décompilation abandonné
+      public function get webDisplay() : Boolean {
+         return new Boolean();
       }
       
-      public function get webDisplay() : Boolean
-      {
-         //Décompilation abandonné
+      public function get descriptionId() : uint {
+         return new uint();
       }
       
-      public function get descriptionId() : uint
-      {
-         //Décompilation abandonné
+      public function get startingSpellLevelId() : uint {
+         return new uint();
       }
       
-      public function get startingSpellLevelId() : uint
-      {
-         //Décompilation abandonné
+      public function get assetId() : uint {
+         return new uint();
       }
       
-      public function get assetId() : uint
-      {
-         //Décompilation abandonné
+      public function get characteristics() : Object {
+         return new Object();
       }
       
-      public function get characteristics() : Object
-      {
-         //Décompilation abandonné
+      public function get spells() : Object {
+         return new Object();
       }
       
-      public function get spells() : Object
-      {
-         //Décompilation abandonné
+      public function get creatureBoneId() : int {
+         return new int();
       }
       
-      public function get creatureBoneId() : int
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
+      }
+      
+      public function get description() : String {
+         return null;
       }
    }
 }

@@ -3,63 +3,48 @@ package d2data
    public class WeaponWrapper extends ItemWrapper
    {
       
-      {
-      //Décompilation abandonné
+      public function WeaponWrapper() {
+         super();
       }
       
-      public function WeaponWrapper(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get apCost() : int {
+         return new int();
       }
       
-      public function get apCost() : int
-      {
-         //Décompilation abandonné
+      public function get minRange() : int {
+         return new int();
       }
       
-      public function get minRange() : int
-      {
-         //Décompilation abandonné
+      public function get range() : int {
+         return new int();
       }
       
-      public function get range() : int
-      {
-         //Décompilation abandonné
+      public function get maxCastPerTurn() : uint {
+         return new uint();
       }
       
-      public function get maxCastPerTurn() : uint
-      {
-         //Décompilation abandonné
+      public function get castInLine() : Boolean {
+         return new Boolean();
       }
       
-      public function get castInLine() : Boolean
-      {
-         //Décompilation abandonné
+      public function get castInDiagonal() : Boolean {
+         return new Boolean();
       }
       
-      public function get castInDiagonal() : Boolean
-      {
-         //Décompilation abandonné
+      public function get castTestLos() : Boolean {
+         return new Boolean();
       }
       
-      public function get castTestLos() : Boolean
-      {
-         //Décompilation abandonné
+      public function get criticalHitProbability() : int {
+         return new int();
       }
       
-      public function get criticalHitProbability() : int
-      {
-         //Décompilation abandonné
+      public function get criticalHitBonus() : int {
+         return new int();
       }
       
-      public function get criticalHitBonus() : int
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get criticalFailureProbability() : int
-      {
-         //Décompilation abandonné
+      public function get criticalFailureProbability() : int {
+         return new int();
       }
    }
 }

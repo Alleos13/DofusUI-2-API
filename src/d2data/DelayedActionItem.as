@@ -1,37 +1,26 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class DelayedActionItem extends ReadOnlyData
+   public class DelayedActionItem extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function DelayedActionItem() {
+         super();
       }
       
-      public function DelayedActionItem(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get playerId() : uint {
+         return new uint();
       }
       
-      public function get playerId() : uint
-      {
-         //Décompilation abandonné
+      public function get type() : uint {
+         return new uint();
       }
       
-      public function get type() : uint
-      {
-         //Décompilation abandonné
+      public function get dataId() : int {
+         return new int();
       }
       
-      public function get dataId() : int
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get endTime() : Number
-      {
-         //Décompilation abandonné
+      public function get endTime() : Number {
+         return new Number();
       }
    }
 }

@@ -1,27 +1,18 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class OptionalFeature extends ReadOnlyData
+   public class OptionalFeature extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function OptionalFeature() {
+         super();
       }
       
-      public function OptionalFeature(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get keyword() : String
-      {
-         //Décompilation abandonné
+      public function get keyword() : String {
+         return new String();
       }
    }
 }

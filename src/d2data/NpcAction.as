@@ -1,27 +1,22 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class NpcAction extends ReadOnlyData
+   public class NpcAction extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function NpcAction() {
+         super();
       }
       
-      public function NpcAction(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
       }
    }
 }

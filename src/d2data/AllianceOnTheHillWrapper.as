@@ -1,52 +1,54 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class AllianceOnTheHillWrapper extends ReadOnlyData
+   public class AllianceOnTheHillWrapper extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function AllianceOnTheHillWrapper() {
+         super();
       }
       
-      public function AllianceOnTheHillWrapper(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get allianceId() : uint {
+         return new uint();
       }
       
-      public function get allianceId() : uint
-      {
-         //Décompilation abandonné
+      public function get upEmblem() : EmblemWrapper {
+         return new EmblemWrapper();
       }
       
-      public function get upEmblem() : EmblemWrapper
-      {
-         //Décompilation abandonné
+      public function get backEmblem() : EmblemWrapper {
+         return new EmblemWrapper();
       }
       
-      public function get backEmblem() : EmblemWrapper
-      {
-         //Décompilation abandonné
+      public function get nbMembers() : uint {
+         return new uint();
       }
       
-      public function get nbMembers() : uint
-      {
-         //Décompilation abandonné
+      public function get roundWeigth() : uint {
+         return new uint();
       }
       
-      public function get roundWeigth() : uint
-      {
-         //Décompilation abandonné
+      public function get matchScore() : uint {
+         return new uint();
       }
       
-      public function get matchScore() : uint
-      {
-         //Décompilation abandonné
+      public function get side() : uint {
+         return new uint();
       }
       
-      public function get side() : uint
-      {
-         //Décompilation abandonné
+      public function get allianceTag() : String {
+         return null;
+      }
+      
+      public function get realAllianceTag() : String {
+         return null;
+      }
+      
+      public function get allianceName() : String {
+         return null;
+      }
+      
+      public function get realAllianceName() : String {
+         return null;
       }
    }
 }

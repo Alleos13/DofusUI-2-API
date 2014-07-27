@@ -1,67 +1,94 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class GuildHouseWrapper extends ReadOnlyData
+   public class GuildHouseWrapper extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function GuildHouseWrapper() {
+         super();
       }
       
-      public function GuildHouseWrapper(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get houseId() : int {
+         return new int();
       }
       
-      public function get houseId() : int
-      {
-         //Décompilation abandonné
+      public function get gfxId() : int {
+         return new int();
       }
       
-      public function get gfxId() : int
-      {
-         //Décompilation abandonné
+      public function get houseName() : String {
+         return new String();
       }
       
-      public function get houseName() : String
-      {
-         //Décompilation abandonné
+      public function get description() : String {
+         return new String();
       }
       
-      public function get description() : String
-      {
-         //Décompilation abandonné
+      public function get ownerName() : String {
+         return new String();
       }
       
-      public function get ownerName() : String
-      {
-         //Décompilation abandonné
+      public function get skillListIds() : Object {
+         return new Object();
       }
       
-      public function get skillListIds() : Object
-      {
-         //Décompilation abandonné
+      public function get worldX() : int {
+         return new int();
       }
       
-      public function get worldX() : int
-      {
-         //Décompilation abandonné
+      public function get worldY() : int {
+         return new int();
       }
       
-      public function get worldY() : int
-      {
-         //Décompilation abandonné
+      public function get subareaId() : int {
+         return new int();
       }
       
-      public function get subareaId() : int
-      {
-         //Décompilation abandonné
+      public function get guildshareParams() : uint {
+         return new uint();
       }
       
-      public function get guildshareParams() : uint
-      {
-         //Décompilation abandonné
+      public function get visibleGuildBrief() : Boolean {
+         return false;
+      }
+      
+      public function get doorSignGuild() : Boolean {
+         return false;
+      }
+      
+      public function get doorSignOthers() : Boolean {
+         return false;
+      }
+      
+      public function get allowDoorGuild() : Boolean {
+         return false;
+      }
+      
+      public function get forbiDoorOthers() : Boolean {
+         return false;
+      }
+      
+      public function get allowChestOthers() : Boolean {
+         return false;
+      }
+      
+      public function get forbidChestOthers() : Boolean {
+         return false;
+      }
+      
+      public function get teleport() : Boolean {
+         return false;
+      }
+      
+      public function get respawn() : Boolean {
+         return false;
+      }
+      
+      public function get skillListString() : Object {
+         return null;
+      }
+      
+      public function get guildshareString() : Object {
+         return null;
       }
    }
 }

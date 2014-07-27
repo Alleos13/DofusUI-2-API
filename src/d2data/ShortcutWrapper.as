@@ -1,42 +1,70 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class ShortcutWrapper extends ReadOnlyData
+   public class ShortcutWrapper extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function ShortcutWrapper() {
+         super();
       }
       
-      public function ShortcutWrapper(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get slot() : uint {
+         return new uint();
       }
       
-      public function get slot() : uint
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get gid() : int {
+         return new int();
       }
       
-      public function get gid() : int
-      {
-         //Décompilation abandonné
+      public function get type() : int {
+         return new int();
       }
       
-      public function get type() : int
-      {
-         //Décompilation abandonné
+      public function get quantity() : int {
+         return new int();
       }
       
-      public function get quantity() : int
-      {
-         //Décompilation abandonné
+      public function get iconUri() : Object {
+         return null;
+      }
+      
+      public function get fullSizeIconUri() : Object {
+         return null;
+      }
+      
+      public function get backGroundIconUri() : Object {
+         return null;
+      }
+      
+      public function get errorIconUri() : Object {
+         return null;
+      }
+      
+      public function get info1() : String {
+         return null;
+      }
+      
+      public function get startTime() : int {
+         return 0;
+      }
+      
+      public function get endTime() : int {
+         return 0;
+      }
+      
+      public function get timer() : int {
+         return 0;
+      }
+      
+      public function get active() : Boolean {
+         return false;
+      }
+      
+      public function get realItem() : Object {
+         return null;
       }
    }
 }

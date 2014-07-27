@@ -1,42 +1,30 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class TreasureHuntWrapper extends ReadOnlyData
+   public class TreasureHuntWrapper extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function TreasureHuntWrapper() {
+         super();
       }
       
-      public function TreasureHuntWrapper(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get questType() : uint {
+         return new uint();
       }
       
-      public function get questType() : uint
-      {
-         //Décompilation abandonné
+      public function get checkPointCurrent() : uint {
+         return new uint();
       }
       
-      public function get checkPointCurrent() : uint
-      {
-         //Décompilation abandonné
+      public function get checkPointTotal() : uint {
+         return new uint();
       }
       
-      public function get checkPointTotal() : uint
-      {
-         //Décompilation abandonné
+      public function get availableRetryCount() : int {
+         return new int();
       }
       
-      public function get availableRetryCount() : int
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get stepList() : Object
-      {
-         //Décompilation abandonné
+      public function get stepList() : Object {
+         return new Object();
       }
    }
 }

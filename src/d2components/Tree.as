@@ -3,13 +3,18 @@ package d2components
    public class Tree extends Grid
    {
       
-      {
-      //Décompilation abandonné
+      public function Tree() {
+         super();
       }
       
-      public function Tree(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get treeRoot() : Object {
+         return null;
+      }
+      
+      public function rerender() : void {
+      }
+      
+      public function expandItems(pItems:Object) : void {
       }
    }
 }

@@ -1,167 +1,162 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class SpellLevel extends ReadOnlyData
+   public class SpellLevel extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function SpellLevel() {
+         super();
       }
       
-      public function SpellLevel(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : uint {
+         return new uint();
       }
       
-      public function get id() : uint
-      {
-         //Décompilation abandonné
+      public function get spellId() : uint {
+         return new uint();
       }
       
-      public function get spellId() : uint
-      {
-         //Décompilation abandonné
+      public function get grade() : uint {
+         return new uint();
       }
       
-      public function get grade() : uint
-      {
-         //Décompilation abandonné
+      public function get spellBreed() : uint {
+         return new uint();
       }
       
-      public function get spellBreed() : uint
-      {
-         //Décompilation abandonné
+      public function get apCost() : uint {
+         return new uint();
       }
       
-      public function get apCost() : uint
-      {
-         //Décompilation abandonné
+      public function get minRange() : uint {
+         return new uint();
       }
       
-      public function get minRange() : uint
-      {
-         //Décompilation abandonné
+      public function get range() : uint {
+         return new uint();
       }
       
-      public function get range() : uint
-      {
-         //Décompilation abandonné
+      public function get castInLine() : Boolean {
+         return new Boolean();
       }
       
-      public function get castInLine() : Boolean
-      {
-         //Décompilation abandonné
+      public function get castInDiagonal() : Boolean {
+         return new Boolean();
       }
       
-      public function get castInDiagonal() : Boolean
-      {
-         //Décompilation abandonné
+      public function get castTestLos() : Boolean {
+         return new Boolean();
       }
       
-      public function get castTestLos() : Boolean
-      {
-         //Décompilation abandonné
+      public function get criticalHitProbability() : uint {
+         return new uint();
       }
       
-      public function get criticalHitProbability() : uint
-      {
-         //Décompilation abandonné
+      public function get criticalFailureProbability() : uint {
+         return new uint();
       }
       
-      public function get criticalFailureProbability() : uint
-      {
-         //Décompilation abandonné
+      public function get needFreeCell() : Boolean {
+         return new Boolean();
       }
       
-      public function get needFreeCell() : Boolean
-      {
-         //Décompilation abandonné
+      public function get needTakenCell() : Boolean {
+         return new Boolean();
       }
       
-      public function get needTakenCell() : Boolean
-      {
-         //Décompilation abandonné
+      public function get needFreeTrapCell() : Boolean {
+         return new Boolean();
       }
       
-      public function get needFreeTrapCell() : Boolean
-      {
-         //Décompilation abandonné
+      public function get rangeCanBeBoosted() : Boolean {
+         return new Boolean();
       }
       
-      public function get rangeCanBeBoosted() : Boolean
-      {
-         //Décompilation abandonné
+      public function get maxStack() : int {
+         return new int();
       }
       
-      public function get maxStack() : int
-      {
-         //Décompilation abandonné
+      public function get maxCastPerTurn() : uint {
+         return new uint();
       }
       
-      public function get maxCastPerTurn() : uint
-      {
-         //Décompilation abandonné
+      public function get maxCastPerTarget() : uint {
+         return new uint();
       }
       
-      public function get maxCastPerTarget() : uint
-      {
-         //Décompilation abandonné
+      public function get minCastInterval() : uint {
+         return new uint();
       }
       
-      public function get minCastInterval() : uint
-      {
-         //Décompilation abandonné
+      public function get initialCooldown() : uint {
+         return new uint();
       }
       
-      public function get initialCooldown() : uint
-      {
-         //Décompilation abandonné
+      public function get globalCooldown() : int {
+         return new int();
       }
       
-      public function get globalCooldown() : int
-      {
-         //Décompilation abandonné
+      public function get minPlayerLevel() : uint {
+         return new uint();
       }
       
-      public function get minPlayerLevel() : uint
-      {
-         //Décompilation abandonné
+      public function get criticalFailureEndsTurn() : Boolean {
+         return new Boolean();
       }
       
-      public function get criticalFailureEndsTurn() : Boolean
-      {
-         //Décompilation abandonné
+      public function get hideEffects() : Boolean {
+         return new Boolean();
       }
       
-      public function get hideEffects() : Boolean
-      {
-         //Décompilation abandonné
+      public function get hidden() : Boolean {
+         return new Boolean();
       }
       
-      public function get hidden() : Boolean
-      {
-         //Décompilation abandonné
+      public function get statesRequired() : Object {
+         return new Object();
       }
       
-      public function get statesRequired() : Object
-      {
-         //Décompilation abandonné
+      public function get statesForbidden() : Object {
+         return new Object();
       }
       
-      public function get statesForbidden() : Object
-      {
-         //Décompilation abandonné
+      public function get effects() : Object {
+         return new Object();
       }
       
-      public function get effects() : Object
-      {
-         //Décompilation abandonné
+      public function get criticalEffect() : Object {
+         return new Object();
       }
       
-      public function get criticalEffect() : Object
-      {
-         //Décompilation abandonné
+      public function get spell() : Spell {
+         return null;
+      }
+      
+      public function get minimalRange() : uint {
+         return 0;
+      }
+      
+      public function get maximalRange() : uint {
+         return 0;
+      }
+      
+      public function get castZoneInLine() : Boolean {
+         return false;
+      }
+      
+      public function get castZoneInDiagonal() : Boolean {
+         return false;
+      }
+      
+      public function get spellZoneEffects() : Object {
+         return null;
+      }
+      
+      public function get canSummon() : Boolean {
+         return false;
+      }
+      
+      public function get canBomb() : Boolean {
+         return false;
       }
    }
 }

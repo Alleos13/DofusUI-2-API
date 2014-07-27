@@ -1,52 +1,38 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class Head extends ReadOnlyData
+   public class Head extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function Head() {
+         super();
       }
       
-      public function Head(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get skins() : String {
+         return new String();
       }
       
-      public function get skins() : String
-      {
-         //Décompilation abandonné
+      public function get assetId() : String {
+         return new String();
       }
       
-      public function get assetId() : String
-      {
-         //Décompilation abandonné
+      public function get breed() : uint {
+         return new uint();
       }
       
-      public function get breed() : uint
-      {
-         //Décompilation abandonné
+      public function get gender() : uint {
+         return new uint();
       }
       
-      public function get gender() : uint
-      {
-         //Décompilation abandonné
+      public function get label() : String {
+         return new String();
       }
       
-      public function get label() : String
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get order() : uint
-      {
-         //Décompilation abandonné
+      public function get order() : uint {
+         return new uint();
       }
    }
 }

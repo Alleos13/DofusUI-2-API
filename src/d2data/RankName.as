@@ -1,32 +1,26 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class RankName extends ReadOnlyData
+   public class RankName extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function RankName() {
+         super();
       }
       
-      public function RankName(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get order() : int {
+         return new int();
       }
       
-      public function get order() : int
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
       }
    }
 }

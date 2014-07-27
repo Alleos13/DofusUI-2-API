@@ -1,67 +1,54 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class BasicCharacterWrapper extends ReadOnlyData
+   public class BasicCharacterWrapper extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function BasicCharacterWrapper() {
+         super();
       }
       
-      public function BasicCharacterWrapper(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : uint {
+         return new uint();
       }
       
-      public function get id() : uint
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return new String();
       }
       
-      public function get name() : String
-      {
-         //Décompilation abandonné
+      public function get level() : uint {
+         return new uint();
       }
       
-      public function get level() : uint
-      {
-         //Décompilation abandonné
+      public function get entityLook() : Object {
+         return new Object();
       }
       
-      public function get entityLook() : Object
-      {
-         //Décompilation abandonné
+      public function get breedId() : uint {
+         return new uint();
       }
       
-      public function get breedId() : uint
-      {
-         //Décompilation abandonné
+      public function get sex() : Boolean {
+         return new Boolean();
       }
       
-      public function get sex() : Boolean
-      {
-         //Décompilation abandonné
+      public function get deathState() : uint {
+         return new uint();
       }
       
-      public function get deathState() : uint
-      {
-         //Décompilation abandonné
+      public function get deathCount() : uint {
+         return new uint();
       }
       
-      public function get deathCount() : uint
-      {
-         //Décompilation abandonné
+      public function get bonusXp() : uint {
+         return new uint();
       }
       
-      public function get bonusXp() : uint
-      {
-         //Décompilation abandonné
+      public function get unusable() : Boolean {
+         return new Boolean();
       }
       
-      public function get unusable() : Boolean
-      {
-         //Décompilation abandonné
+      public function get breed() : Breed {
+         return null;
       }
    }
 }

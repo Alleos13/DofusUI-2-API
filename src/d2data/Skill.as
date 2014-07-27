@@ -1,82 +1,74 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class Skill extends ReadOnlyData
+   public class Skill extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function Skill() {
+         super();
       }
       
-      public function Skill(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get parentJobId() : int {
+         return new int();
       }
       
-      public function get parentJobId() : int
-      {
-         //Décompilation abandonné
+      public function get isForgemagus() : Boolean {
+         return new Boolean();
       }
       
-      public function get isForgemagus() : Boolean
-      {
-         //Décompilation abandonné
+      public function get modifiableItemType() : int {
+         return new int();
       }
       
-      public function get modifiableItemType() : int
-      {
-         //Décompilation abandonné
+      public function get gatheredRessourceItem() : int {
+         return new int();
       }
       
-      public function get gatheredRessourceItem() : int
-      {
-         //Décompilation abandonné
+      public function get craftableItemIds() : Object {
+         return new Object();
       }
       
-      public function get craftableItemIds() : Object
-      {
-         //Décompilation abandonné
+      public function get interactiveId() : int {
+         return new int();
       }
       
-      public function get interactiveId() : int
-      {
-         //Décompilation abandonné
+      public function get useAnimation() : String {
+         return new String();
       }
       
-      public function get useAnimation() : String
-      {
-         //Décompilation abandonné
+      public function get isRepair() : Boolean {
+         return new Boolean();
       }
       
-      public function get isRepair() : Boolean
-      {
-         //Décompilation abandonné
+      public function get cursor() : int {
+         return new int();
       }
       
-      public function get cursor() : int
-      {
-         //Décompilation abandonné
+      public function get availableInHouse() : Boolean {
+         return new Boolean();
       }
       
-      public function get availableInHouse() : Boolean
-      {
-         //Décompilation abandonné
+      public function get levelMin() : uint {
+         return new uint();
       }
       
-      public function get levelMin() : uint
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
+      }
+      
+      public function get parentJob() : Job {
+         return null;
+      }
+      
+      public function get interactive() : Interactive {
+         return null;
       }
    }
 }

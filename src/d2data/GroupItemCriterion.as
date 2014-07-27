@@ -1,17 +1,34 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class GroupItemCriterion extends ReadOnlyData
+   public class GroupItemCriterion extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function GroupItemCriterion() {
+         super();
       }
       
-      public function GroupItemCriterion(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get criteria() : Object {
+         return null;
+      }
+      
+      public function get inlineCriteria() : Object {
+         return null;
+      }
+      
+      public function get isRespected() : Boolean {
+         return false;
+      }
+      
+      public function get text() : String {
+         return null;
+      }
+      
+      public function get basicText() : String {
+         return null;
+      }
+      
+      public function get operators() : Object {
+         return null;
       }
    }
 }

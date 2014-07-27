@@ -1,32 +1,22 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class Pack extends ReadOnlyData
+   public class Pack extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function Pack() {
+         super();
       }
       
-      public function Pack(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return new String();
       }
       
-      public function get name() : String
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get hasSubAreas() : Boolean
-      {
-         //Décompilation abandonné
+      public function get hasSubAreas() : Boolean {
+         return new Boolean();
       }
    }
 }

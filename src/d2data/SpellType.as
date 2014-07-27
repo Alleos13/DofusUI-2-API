@@ -1,32 +1,30 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class SpellType extends ReadOnlyData
+   public class SpellType extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function SpellType() {
+         super();
       }
       
-      public function SpellType(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get longNameId() : uint {
+         return new uint();
       }
       
-      public function get longNameId() : uint
-      {
-         //Décompilation abandonné
+      public function get shortNameId() : uint {
+         return new uint();
       }
       
-      public function get shortNameId() : uint
-      {
-         //Décompilation abandonné
+      public function get longName() : String {
+         return null;
+      }
+      
+      public function get shortName() : String {
+         return null;
       }
    }
 }

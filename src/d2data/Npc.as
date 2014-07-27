@@ -1,67 +1,54 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class Npc extends ReadOnlyData
+   public class Npc extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function Npc() {
+         super();
       }
       
-      public function Npc(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get dialogMessages() : Object {
+         return new Object();
       }
       
-      public function get dialogMessages() : Object
-      {
-         //Décompilation abandonné
+      public function get dialogReplies() : Object {
+         return new Object();
       }
       
-      public function get dialogReplies() : Object
-      {
-         //Décompilation abandonné
+      public function get actions() : Object {
+         return new Object();
       }
       
-      public function get actions() : Object
-      {
-         //Décompilation abandonné
+      public function get gender() : uint {
+         return new uint();
       }
       
-      public function get gender() : uint
-      {
-         //Décompilation abandonné
+      public function get look() : String {
+         return new String();
       }
       
-      public function get look() : String
-      {
-         //Décompilation abandonné
+      public function get tokenShop() : int {
+         return new int();
       }
       
-      public function get tokenShop() : int
-      {
-         //Décompilation abandonné
+      public function get animFunList() : Object {
+         return new Object();
       }
       
-      public function get animFunList() : Object
-      {
-         //Décompilation abandonné
+      public function get fastAnimsFun() : Boolean {
+         return new Boolean();
       }
       
-      public function get fastAnimsFun() : Boolean
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
       }
    }
 }

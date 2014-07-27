@@ -1,32 +1,26 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class Mount extends ReadOnlyData
+   public class Mount extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function Mount() {
+         super();
       }
       
-      public function Mount(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : uint {
+         return new uint();
       }
       
-      public function get id() : uint
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get look() : String {
+         return new String();
       }
       
-      public function get look() : String
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
       }
    }
 }

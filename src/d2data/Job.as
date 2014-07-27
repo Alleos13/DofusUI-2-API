@@ -1,42 +1,42 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class Job extends ReadOnlyData
+   public class Job extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function Job() {
+         super();
       }
       
-      public function Job(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get nameId() : uint {
+         return new uint();
       }
       
-      public function get nameId() : uint
-      {
-         //Décompilation abandonné
+      public function get specializationOfId() : int {
+         return new int();
       }
       
-      public function get specializationOfId() : int
-      {
-         //Décompilation abandonné
+      public function get iconId() : int {
+         return new int();
       }
       
-      public function get iconId() : int
-      {
-         //Décompilation abandonné
+      public function get toolIds() : Object {
+         return new Object();
       }
       
-      public function get toolIds() : Object
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
+      }
+      
+      public function get specializationOf() : Job {
+         return null;
+      }
+      
+      public function get tools() : Object {
+         return null;
       }
    }
 }

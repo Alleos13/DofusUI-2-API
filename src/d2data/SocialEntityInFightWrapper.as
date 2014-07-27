@@ -1,52 +1,38 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class SocialEntityInFightWrapper extends ReadOnlyData
+   public class SocialEntityInFightWrapper extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function SocialEntityInFightWrapper() {
+         super();
       }
       
-      public function SocialEntityInFightWrapper(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get uniqueId() : int {
+         return new int();
       }
       
-      public function get uniqueId() : int
-      {
-         //Décompilation abandonné
+      public function get typeId() : int {
+         return new int();
       }
       
-      public function get typeId() : int
-      {
-         //Décompilation abandonné
+      public function get fightTime() : int {
+         return new int();
       }
       
-      public function get fightTime() : int
-      {
-         //Décompilation abandonné
+      public function get allyCharactersInformations() : Object {
+         return new Object();
       }
       
-      public function get allyCharactersInformations() : Object
-      {
-         //Décompilation abandonné
+      public function get enemyCharactersInformations() : Object {
+         return new Object();
       }
       
-      public function get enemyCharactersInformations() : Object
-      {
-         //Décompilation abandonné
+      public function get waitTimeForPlacement() : Number {
+         return new Number();
       }
       
-      public function get waitTimeForPlacement() : Number
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get nbPositionPerTeam() : uint
-      {
-         //Décompilation abandonné
+      public function get nbPositionPerTeam() : uint {
+         return new uint();
       }
    }
 }

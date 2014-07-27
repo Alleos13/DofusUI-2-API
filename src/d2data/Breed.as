@@ -1,117 +1,118 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class Breed extends ReadOnlyData
+   public class Breed extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function Breed() {
+         super();
       }
       
-      public function Breed(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
+      public function get shortNameId() : uint {
+         return new uint();
       }
       
-      public function get shortNameId() : uint
-      {
-         //Décompilation abandonné
+      public function get longNameId() : uint {
+         return new uint();
       }
       
-      public function get longNameId() : uint
-      {
-         //Décompilation abandonné
+      public function get descriptionId() : uint {
+         return new uint();
       }
       
-      public function get descriptionId() : uint
-      {
-         //Décompilation abandonné
+      public function get gameplayDescriptionId() : uint {
+         return new uint();
       }
       
-      public function get gameplayDescriptionId() : uint
-      {
-         //Décompilation abandonné
+      public function get maleLook() : String {
+         return new String();
       }
       
-      public function get maleLook() : String
-      {
-         //Décompilation abandonné
+      public function get femaleLook() : String {
+         return new String();
       }
       
-      public function get femaleLook() : String
-      {
-         //Décompilation abandonné
+      public function get creatureBonesId() : uint {
+         return new uint();
       }
       
-      public function get creatureBonesId() : uint
-      {
-         //Décompilation abandonné
+      public function get maleArtwork() : int {
+         return new int();
       }
       
-      public function get maleArtwork() : int
-      {
-         //Décompilation abandonné
+      public function get femaleArtwork() : int {
+         return new int();
       }
       
-      public function get femaleArtwork() : int
-      {
-         //Décompilation abandonné
+      public function get statsPointsForStrength() : Object {
+         return new Object();
       }
       
-      public function get statsPointsForStrength() : Object
-      {
-         //Décompilation abandonné
+      public function get statsPointsForIntelligence() : Object {
+         return new Object();
       }
       
-      public function get statsPointsForIntelligence() : Object
-      {
-         //Décompilation abandonné
+      public function get statsPointsForChance() : Object {
+         return new Object();
       }
       
-      public function get statsPointsForChance() : Object
-      {
-         //Décompilation abandonné
+      public function get statsPointsForAgility() : Object {
+         return new Object();
       }
       
-      public function get statsPointsForAgility() : Object
-      {
-         //Décompilation abandonné
+      public function get statsPointsForVitality() : Object {
+         return new Object();
       }
       
-      public function get statsPointsForVitality() : Object
-      {
-         //Décompilation abandonné
+      public function get statsPointsForWisdom() : Object {
+         return new Object();
       }
       
-      public function get statsPointsForWisdom() : Object
-      {
-         //Décompilation abandonné
+      public function get breedSpellsId() : Object {
+         return new Object();
       }
       
-      public function get breedSpellsId() : Object
-      {
-         //Décompilation abandonné
+      public function get maleColors() : Object {
+         return new Object();
       }
       
-      public function get maleColors() : Object
-      {
-         //Décompilation abandonné
+      public function get femaleColors() : Object {
+         return new Object();
       }
       
-      public function get femaleColors() : Object
-      {
-         //Décompilation abandonné
+      public function get spawnMap() : uint {
+         return new uint();
       }
       
-      public function get spawnMap() : uint
-      {
-         //Décompilation abandonné
+      public function get shortName() : String {
+         return null;
+      }
+      
+      public function get longName() : String {
+         return null;
+      }
+      
+      public function get description() : String {
+         return null;
+      }
+      
+      public function get gameplayDescription() : String {
+         return null;
+      }
+      
+      public function get breedSpells() : Object {
+         return null;
+      }
+      
+      public function get femaleLookWithColors() : Object {
+         return null;
+      }
+      
+      public function get maleLookWithColors() : Object {
+         return null;
       }
    }
 }

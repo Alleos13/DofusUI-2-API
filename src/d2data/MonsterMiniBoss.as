@@ -1,27 +1,18 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class MonsterMiniBoss extends ReadOnlyData
+   public class MonsterMiniBoss extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function MonsterMiniBoss() {
+         super();
       }
       
-      public function MonsterMiniBoss(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : int {
+         return new int();
       }
       
-      public function get id() : int
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get monsterReplacingId() : int
-      {
-         //Décompilation abandonné
+      public function get monsterReplacingId() : int {
+         return new int();
       }
    }
 }

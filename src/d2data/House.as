@@ -1,42 +1,38 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class House extends ReadOnlyData
+   public class House extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function House() {
+         super();
       }
       
-      public function House(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get typeId() : int {
+         return new int();
       }
       
-      public function get typeId() : int
-      {
-         //Décompilation abandonné
+      public function get defaultPrice() : uint {
+         return new uint();
       }
       
-      public function get defaultPrice() : uint
-      {
-         //Décompilation abandonné
+      public function get nameId() : int {
+         return new int();
       }
       
-      public function get nameId() : int
-      {
-         //Décompilation abandonné
+      public function get descriptionId() : int {
+         return new int();
       }
       
-      public function get descriptionId() : int
-      {
-         //Décompilation abandonné
+      public function get gfxId() : int {
+         return new int();
       }
       
-      public function get gfxId() : int
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return null;
+      }
+      
+      public function get description() : String {
+         return null;
       }
    }
 }

@@ -1,202 +1,158 @@
 package d2data
 {
-   import utils.ReadOnlyData;
-   
-   public class MountData extends ReadOnlyData
+   public class MountData extends Object
    {
       
-      {
-      //Décompilation abandonné
+      public function MountData() {
+         super();
       }
       
-      public function MountData(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
+      public function get id() : Number {
+         return new Number();
       }
       
-      public function get id() : Number
-      {
-         //Décompilation abandonné
+      public function get model() : uint {
+         return new uint();
       }
       
-      public function get model() : uint
-      {
-         //Décompilation abandonné
+      public function get name() : String {
+         return new String();
       }
       
-      public function get name() : String
-      {
-         //Décompilation abandonné
+      public function get description() : String {
+         return new String();
       }
       
-      public function get description() : String
-      {
-         //Décompilation abandonné
+      public function get entityLook() : Object {
+         return new Object();
       }
       
-      public function get entityLook() : Object
-      {
-         //Décompilation abandonné
+      public function get colors() : Object {
+         return new Object();
       }
       
-      public function get colors() : Object
-      {
-         //Décompilation abandonné
+      public function get sex() : Boolean {
+         return new Boolean();
       }
       
-      public function get sex() : Boolean
-      {
-         //Décompilation abandonné
+      public function get level() : uint {
+         return new uint();
       }
       
-      public function get level() : uint
-      {
-         //Décompilation abandonné
+      public function get ownerId() : uint {
+         return new uint();
       }
       
-      public function get ownerId() : uint
-      {
-         //Décompilation abandonné
+      public function get experience() : Number {
+         return new Number();
       }
       
-      public function get experience() : Number
-      {
-         //Décompilation abandonné
+      public function get experienceForLevel() : Number {
+         return new Number();
       }
       
-      public function get experienceForLevel() : Number
-      {
-         //Décompilation abandonné
+      public function get experienceForNextLevel() : Number {
+         return new Number();
       }
       
-      public function get experienceForNextLevel() : Number
-      {
-         //Décompilation abandonné
+      public function get xpRatio() : uint {
+         return new uint();
       }
       
-      public function get xpRatio() : uint
-      {
-         //Décompilation abandonné
+      public function get maxPods() : uint {
+         return new uint();
       }
       
-      public function get maxPods() : uint
-      {
-         //Décompilation abandonné
+      public function get isRideable() : Boolean {
+         return new Boolean();
       }
       
-      public function get isRideable() : Boolean
-      {
-         //Décompilation abandonné
+      public function get isWild() : Boolean {
+         return new Boolean();
       }
       
-      public function get isWild() : Boolean
-      {
-         //Décompilation abandonné
+      public function get borning() : Boolean {
+         return new Boolean();
       }
       
-      public function get borning() : Boolean
-      {
-         //Décompilation abandonné
+      public function get energy() : uint {
+         return new uint();
       }
       
-      public function get energy() : uint
-      {
-         //Décompilation abandonné
+      public function get energyMax() : uint {
+         return new uint();
       }
       
-      public function get energyMax() : uint
-      {
-         //Décompilation abandonné
+      public function get stamina() : uint {
+         return new uint();
       }
       
-      public function get stamina() : uint
-      {
-         //Décompilation abandonné
+      public function get staminaMax() : uint {
+         return new uint();
       }
       
-      public function get staminaMax() : uint
-      {
-         //Décompilation abandonné
+      public function get maturity() : uint {
+         return new uint();
       }
       
-      public function get maturity() : uint
-      {
-         //Décompilation abandonné
+      public function get maturityForAdult() : uint {
+         return new uint();
       }
       
-      public function get maturityForAdult() : uint
-      {
-         //Décompilation abandonné
+      public function get serenity() : int {
+         return new int();
       }
       
-      public function get serenity() : int
-      {
-         //Décompilation abandonné
+      public function get serenityMax() : uint {
+         return new uint();
       }
       
-      public function get serenityMax() : uint
-      {
-         //Décompilation abandonné
+      public function get aggressivityMax() : int {
+         return new int();
       }
       
-      public function get aggressivityMax() : int
-      {
-         //Décompilation abandonné
+      public function get love() : uint {
+         return new uint();
       }
       
-      public function get love() : uint
-      {
-         //Décompilation abandonné
+      public function get loveMax() : uint {
+         return new uint();
       }
       
-      public function get loveMax() : uint
-      {
-         //Décompilation abandonné
+      public function get fecondationTime() : int {
+         return new int();
       }
       
-      public function get fecondationTime() : int
-      {
-         //Décompilation abandonné
+      public function get isFecondationReady() : Boolean {
+         return new Boolean();
       }
       
-      public function get isFecondationReady() : Boolean
-      {
-         //Décompilation abandonné
+      public function get reproductionCount() : int {
+         return new int();
       }
       
-      public function get reproductionCount() : int
-      {
-         //Décompilation abandonné
+      public function get reproductionCountMax() : uint {
+         return new uint();
       }
       
-      public function get reproductionCountMax() : uint
-      {
-         //Décompilation abandonné
+      public function get boostLimiter() : uint {
+         return new uint();
       }
       
-      public function get boostLimiter() : uint
-      {
-         //Décompilation abandonné
+      public function get boostMax() : Number {
+         return new Number();
       }
       
-      public function get boostMax() : Number
-      {
-         //Décompilation abandonné
+      public function get effectList() : Object {
+         return new Object();
       }
       
-      public function get effectList() : Object
-      {
-         //Décompilation abandonné
+      public function get ancestor() : Object {
+         return new Object();
       }
       
-      public function get ancestor() : Object
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get ability() : Object
-      {
-         //Décompilation abandonné
+      public function get ability() : Object {
+         return new Object();
       }
    }
 }
