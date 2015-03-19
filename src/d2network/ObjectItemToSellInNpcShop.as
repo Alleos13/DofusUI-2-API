@@ -2,10 +2,7 @@ package d2network
 {
    public class ObjectItemToSellInNpcShop extends ObjectItemMinimalInformation
    {
-      
-      {
-       
-      }
+
       
       public function ObjectItemToSellInNpcShop(param1:*, param2:Object)
       {

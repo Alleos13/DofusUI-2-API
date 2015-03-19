@@ -4,10 +4,7 @@ package d2data
    
    public class SpeakingItemText extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function SpeakingItemText(param1:*, param2:Object)
       {

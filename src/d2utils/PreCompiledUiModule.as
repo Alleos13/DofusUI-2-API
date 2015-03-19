@@ -2,10 +2,7 @@ package d2utils
 {
    public dynamic class PreCompiledUiModule extends UiModule
    {
-      
-      {
-       
-      }
+
       
       public function PreCompiledUiModule(param1:*, param2:Object)
       {

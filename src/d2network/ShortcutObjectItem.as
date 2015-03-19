@@ -2,10 +2,7 @@ package d2network
 {
    public class ShortcutObjectItem extends ShortcutObject
    {
-      
-      {
-       
-      }
+
       
       public function ShortcutObjectItem(param1:*, param2:Object)
       {

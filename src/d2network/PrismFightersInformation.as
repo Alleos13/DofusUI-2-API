@@ -4,10 +4,7 @@ package d2network
    
    public class PrismFightersInformation extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function PrismFightersInformation(param1:*, param2:Object)
       {

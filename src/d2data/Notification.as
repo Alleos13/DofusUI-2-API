@@ -4,10 +4,7 @@ package d2data
    
    public class Notification extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function Notification(param1:*, param2:Object)
       {

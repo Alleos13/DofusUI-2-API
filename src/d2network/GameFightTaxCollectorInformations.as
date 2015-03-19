@@ -2,10 +2,7 @@ package d2network
 {
    public class GameFightTaxCollectorInformations extends GameFightAIInformations
    {
-      
-      {
-       
-      }
+
       
       public function GameFightTaxCollectorInformations(param1:*, param2:Object)
       {

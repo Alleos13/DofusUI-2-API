@@ -4,10 +4,7 @@ package d2network
    
    public class ServerSessionConstant extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function ServerSessionConstant(param1:*, param2:Object)
       {

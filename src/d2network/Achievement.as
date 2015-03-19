@@ -4,10 +4,7 @@ package d2network
    
    public class Achievement extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function Achievement(param1:*, param2:Object)
       {

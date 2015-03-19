@@ -4,10 +4,7 @@ package d2network
    
    public class FightExternalInformations extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function FightExternalInformations(param1:*, param2:Object)
       {

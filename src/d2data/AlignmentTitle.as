@@ -4,10 +4,7 @@ package d2data
    
    public class AlignmentTitle extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function AlignmentTitle(param1:*, param2:Object)
       {

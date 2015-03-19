@@ -4,10 +4,7 @@ package d2network
    
    public class SubEntity extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function SubEntity(param1:*, param2:Object)
       {

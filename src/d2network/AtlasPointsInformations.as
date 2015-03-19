@@ -4,10 +4,7 @@ package d2network
    
    public class AtlasPointsInformations extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function AtlasPointsInformations(param1:*, param2:Object)
       {

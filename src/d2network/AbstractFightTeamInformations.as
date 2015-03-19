@@ -4,11 +4,7 @@ package d2network
    
    public class AbstractFightTeamInformations extends ReadOnlyData
    {
-      
-      {
-       
-      }
-      
+
       public function AbstractFightTeamInformations(param1:*, param2:Object)
       {
           

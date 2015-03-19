@@ -4,10 +4,7 @@ package d2data
    
    public class CreatureBoneOverride extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function CreatureBoneOverride(param1:*, param2:Object)
       {

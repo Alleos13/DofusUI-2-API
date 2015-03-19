@@ -2,10 +2,7 @@ package d2network
 {
    public class IgnoredOnlineInformations extends IgnoredInformations
    {
-      
-      {
-       
-      }
+
       
       public function IgnoredOnlineInformations(param1:*, param2:Object)
       {

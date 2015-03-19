@@ -4,10 +4,7 @@ package d2network
    
    public class PartyUpdateCommonsInformations extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function PartyUpdateCommonsInformations(param1:*, param2:Object)
       {

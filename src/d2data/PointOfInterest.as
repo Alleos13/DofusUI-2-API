@@ -4,10 +4,7 @@ package d2data
    
    public class PointOfInterest extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function PointOfInterest(param1:*, param2:Object)
       {

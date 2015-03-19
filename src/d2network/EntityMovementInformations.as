@@ -4,10 +4,7 @@ package d2network
    
    public class EntityMovementInformations extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function EntityMovementInformations(param1:*, param2:Object)
       {

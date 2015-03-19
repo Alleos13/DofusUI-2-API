@@ -4,10 +4,7 @@ package d2data
    
    public class SkillName extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function SkillName(param1:*, param2:Object)
       {

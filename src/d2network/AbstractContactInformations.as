@@ -4,10 +4,7 @@ package d2network
    
    public class AbstractContactInformations extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function AbstractContactInformations(param1:*, param2:Object)
       {

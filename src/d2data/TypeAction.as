@@ -4,10 +4,7 @@ package d2data
    
    public class TypeAction extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function TypeAction(param1:*, param2:Object)
       {

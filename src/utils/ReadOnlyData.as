@@ -9,10 +9,7 @@ package utils
    
    public class ReadOnlyData extends Proxy implements Secure
    {
-      
-      {
-       
-      }
+
       
       public function ReadOnlyData(param1:Object, param2:Object)
       {

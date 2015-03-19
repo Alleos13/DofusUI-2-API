@@ -4,10 +4,7 @@ package d2data
    
    public class MountBehavior extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function MountBehavior(param1:*, param2:Object)
       {

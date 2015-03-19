@@ -2,10 +2,7 @@ package d2network
 {
    public class FightTeamLightInformations extends AbstractFightTeamInformations
    {
-      
-      {
-       
-      }
+
       
       public function FightTeamLightInformations(param1:*, param2:Object)
       {

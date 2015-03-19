@@ -4,10 +4,7 @@ package d2network
    
    public class ObjectItemInRolePlay extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function ObjectItemInRolePlay(param1:*, param2:Object)
       {

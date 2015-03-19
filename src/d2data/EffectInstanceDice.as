@@ -2,10 +2,7 @@ package d2data
 {
    public class EffectInstanceDice extends EffectInstanceInteger
    {
-      
-      {
-       
-      }
+
       
       public function EffectInstanceDice(param1:*, param2:Object)
       {

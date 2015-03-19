@@ -4,10 +4,7 @@ package d2data
    
    public class CraftsmanWrapper extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function CraftsmanWrapper(param1:*, param2:Object)
       {

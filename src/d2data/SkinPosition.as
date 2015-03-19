@@ -4,10 +4,7 @@ package d2data
    
    public class SkinPosition extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function SkinPosition(param1:*, param2:Object)
       {

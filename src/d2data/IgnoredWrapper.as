@@ -4,10 +4,7 @@ package d2data
    
    public class IgnoredWrapper extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function IgnoredWrapper(param1:*, param2:Object)
       {

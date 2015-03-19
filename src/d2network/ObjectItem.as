@@ -2,10 +2,7 @@ package d2network
 {
    public class ObjectItem extends Item
    {
-      
-      {
-       
-      }
+
       
       public function ObjectItem(param1:*, param2:Object)
       {

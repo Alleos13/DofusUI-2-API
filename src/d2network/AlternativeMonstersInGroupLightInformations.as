@@ -4,10 +4,7 @@ package d2network
    
    public class AlternativeMonstersInGroupLightInformations extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function AlternativeMonstersInGroupLightInformations(param1:*, param2:Object)
       {

@@ -4,10 +4,7 @@ package d2network
    
    public class AbstractFightDispellableEffect extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function AbstractFightDispellableEffect(param1:*, param2:Object)
       {

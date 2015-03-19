@@ -4,10 +4,7 @@ package d2data
    
    public class EmblemBackground extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function EmblemBackground(param1:*, param2:Object)
       {

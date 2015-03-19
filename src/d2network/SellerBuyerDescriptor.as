@@ -4,10 +4,7 @@ package d2network
    
    public class SellerBuyerDescriptor extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function SellerBuyerDescriptor(param1:*, param2:Object)
       {

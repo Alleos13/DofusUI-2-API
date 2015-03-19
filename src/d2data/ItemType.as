@@ -4,10 +4,7 @@ package d2data
    
    public class ItemType extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function ItemType(param1:*, param2:Object)
       {

@@ -4,10 +4,7 @@ package d2network
    
    public class GameFightResumeSlaveInfo extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function GameFightResumeSlaveInfo(param1:*, param2:Object)
       {

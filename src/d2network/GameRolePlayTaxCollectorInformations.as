@@ -2,10 +2,7 @@ package d2network
 {
    public class GameRolePlayTaxCollectorInformations extends GameRolePlayActorInformations
    {
-      
-      {
-       
-      }
+
       
       public function GameRolePlayTaxCollectorInformations(param1:*, param2:Object)
       {

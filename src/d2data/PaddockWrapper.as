@@ -4,10 +4,7 @@ package d2data
    
    public class PaddockWrapper extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function PaddockWrapper(param1:*, param2:Object)
       {

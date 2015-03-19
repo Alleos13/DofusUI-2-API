@@ -4,10 +4,7 @@ package d2data
    
    public class Waypoint extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function Waypoint(param1:*, param2:Object)
       {

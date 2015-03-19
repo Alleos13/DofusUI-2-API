@@ -4,10 +4,7 @@ package d2network
    
    public class GameActionMarkedCell extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function GameActionMarkedCell(param1:*, param2:Object)
       {

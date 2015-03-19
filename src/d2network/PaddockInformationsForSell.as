@@ -4,10 +4,7 @@ package d2network
    
    public class PaddockInformationsForSell extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function PaddockInformationsForSell(param1:*, param2:Object)
       {

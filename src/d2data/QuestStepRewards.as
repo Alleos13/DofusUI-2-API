@@ -4,10 +4,7 @@ package d2data
    
    public class QuestStepRewards extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function QuestStepRewards(param1:*, param2:Object)
       {

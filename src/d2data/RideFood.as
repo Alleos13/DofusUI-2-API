@@ -4,10 +4,7 @@ package d2data
    
    public class RideFood extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function RideFood(param1:*, param2:Object)
       {

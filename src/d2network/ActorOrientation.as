@@ -4,10 +4,7 @@ package d2network
    
    public class ActorOrientation extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function ActorOrientation(param1:*, param2:Object)
       {

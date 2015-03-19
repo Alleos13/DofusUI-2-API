@@ -4,10 +4,7 @@ package d2data
    
    public class Appearance extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function Appearance(param1:*, param2:Object)
       {

@@ -4,10 +4,7 @@ package d2data
    
    public class NpcMessage extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function NpcMessage(param1:*, param2:Object)
       {

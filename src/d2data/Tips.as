@@ -4,10 +4,7 @@ package d2data
    
    public class Tips extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function Tips(param1:*, param2:Object)
       {

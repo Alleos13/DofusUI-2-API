@@ -2,10 +2,7 @@ package d2network
 {
    public class FriendOnlineInformations extends FriendInformations
    {
-      
-      {
-       
-      }
+
       
       public function FriendOnlineInformations(param1:*, param2:Object)
       {

@@ -4,10 +4,7 @@ package d2network
    
    public class StatedElement extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function StatedElement(param1:*, param2:Object)
       {

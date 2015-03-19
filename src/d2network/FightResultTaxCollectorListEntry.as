@@ -2,10 +2,7 @@ package d2network
 {
    public class FightResultTaxCollectorListEntry extends FightResultFighterListEntry
    {
-      
-      {
-       
-      }
+
       
       public function FightResultTaxCollectorListEntry(param1:*, param2:Object)
       {

@@ -4,10 +4,7 @@ package d2data
    
    public class Challenge extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function Challenge(param1:*, param2:Object)
       {

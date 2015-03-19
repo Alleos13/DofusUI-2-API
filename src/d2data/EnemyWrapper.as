@@ -4,10 +4,7 @@ package d2data
    
    public class EnemyWrapper extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function EnemyWrapper(param1:*, param2:Object)
       {

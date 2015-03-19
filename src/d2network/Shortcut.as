@@ -4,10 +4,7 @@ package d2network
    
    public class Shortcut extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function Shortcut(param1:*, param2:Object)
       {

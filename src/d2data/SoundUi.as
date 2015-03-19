@@ -4,10 +4,7 @@ package d2data
    
    public class SoundUi extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function SoundUi(param1:*, param2:Object)
       {

@@ -4,10 +4,7 @@ package d2data
    
    public class Hint extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function Hint(param1:*, param2:Object)
       {

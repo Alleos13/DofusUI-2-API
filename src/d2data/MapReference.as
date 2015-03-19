@@ -4,10 +4,7 @@ package d2data
    
    public class MapReference extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function MapReference(param1:*, param2:Object)
       {

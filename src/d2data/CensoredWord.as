@@ -4,10 +4,7 @@ package d2data
    
    public class CensoredWord extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function CensoredWord(param1:*, param2:Object)
       {

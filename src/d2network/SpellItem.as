@@ -2,10 +2,7 @@ package d2network
 {
    public class SpellItem extends Item
    {
-      
-      {
-       
-      }
+
       
       public function SpellItem(param1:*, param2:Object)
       {

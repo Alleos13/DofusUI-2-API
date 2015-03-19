@@ -5,10 +5,7 @@ package d2data
    
    public class PrismFightersWrapper extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function PrismFightersWrapper(param1:*, param2:Object)
       {

@@ -2,10 +2,7 @@ package d2network
 {
    public class FightResultExperienceData extends FightResultAdditionalData
    {
-      
-      {
-       
-      }
+
       
       public function FightResultExperienceData(param1:*, param2:Object)
       {

@@ -4,10 +4,7 @@ package d2data
    
    public class FriendWrapper extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function FriendWrapper(param1:*, param2:Object)
       {

@@ -4,10 +4,7 @@ package d2network
    
    public class TreasureHuntStep extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function TreasureHuntStep(param1:*, param2:Object)
       {

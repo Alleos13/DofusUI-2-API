@@ -4,10 +4,7 @@ package d2network
    
    public class FriendSpouseInformations extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function FriendSpouseInformations(param1:*, param2:Object)
       {

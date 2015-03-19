@@ -2,10 +2,7 @@ package d2network
 {
    public class FightTeamMemberTaxCollectorInformations extends FightTeamMemberInformations
    {
-      
-      {
-       
-      }
+
       
       public function FightTeamMemberTaxCollectorInformations(param1:*, param2:Object)
       {

@@ -4,10 +4,7 @@ package d2data
    
    public class SoundBones extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function SoundBones(param1:*, param2:Object)
       {

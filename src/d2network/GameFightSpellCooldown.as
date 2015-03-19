@@ -4,10 +4,7 @@ package d2network
    
    public class GameFightSpellCooldown extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function GameFightSpellCooldown(param1:*, param2:Object)
       {

@@ -4,10 +4,7 @@ package d2data
    
    public class Month extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function Month(param1:*, param2:Object)
       {

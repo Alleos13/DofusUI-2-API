@@ -4,10 +4,7 @@ package d2network
    
    public class TaxCollectorComplementaryInformations extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function TaxCollectorComplementaryInformations(param1:*, param2:Object)
       {

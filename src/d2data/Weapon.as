@@ -2,10 +2,7 @@ package d2data
 {
    public class Weapon extends Item
    {
-      
-      {
-       
-      }
+
       
       public function Weapon(param1:*, param2:Object)
       {

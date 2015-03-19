@@ -2,10 +2,7 @@ package d2network
 {
    public class VersionExtended extends Version
    {
-      
-      {
-       
-      }
+
       
       public function VersionExtended(param1:*, param2:Object)
       {

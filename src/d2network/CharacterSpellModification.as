@@ -4,10 +4,7 @@ package d2network
    
    public class CharacterSpellModification extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function CharacterSpellModification(param1:*, param2:Object)
       {

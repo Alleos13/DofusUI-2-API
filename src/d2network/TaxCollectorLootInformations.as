@@ -2,10 +2,7 @@ package d2network
 {
    public class TaxCollectorLootInformations extends TaxCollectorComplementaryInformations
    {
-      
-      {
-       
-      }
+
       
       public function TaxCollectorLootInformations(param1:*, param2:Object)
       {

@@ -4,10 +4,7 @@ package d2network
    
    public class NpcStaticInformations extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function NpcStaticInformations(param1:*, param2:Object)
       {

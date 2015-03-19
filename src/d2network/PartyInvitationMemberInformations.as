@@ -2,10 +2,7 @@ package d2network
 {
    public class PartyInvitationMemberInformations extends CharacterBaseInformations
    {
-      
-      {
-       
-      }
+
       
       public function PartyInvitationMemberInformations(param1:*, param2:Object)
       {

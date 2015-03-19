@@ -4,10 +4,7 @@ package d2network
    
    public class GameRolePlayNpcQuestFlag extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function GameRolePlayNpcQuestFlag(param1:*, param2:Object)
       {

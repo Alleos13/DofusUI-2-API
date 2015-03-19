@@ -4,10 +4,7 @@ package d2network
    
    public class NamedPartyTeamWithOutcome extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function NamedPartyTeamWithOutcome(param1:*, param2:Object)
       {

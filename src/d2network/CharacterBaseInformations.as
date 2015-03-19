@@ -2,10 +2,7 @@ package d2network
 {
    public class CharacterBaseInformations extends CharacterMinimalPlusLookInformations
    {
-      
-      {
-       
-      }
+
       
       public function CharacterBaseInformations(param1:*, param2:Object)
       {

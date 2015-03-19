@@ -4,10 +4,7 @@ package d2data
    
    public class CraftSmileyItem extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function CraftSmileyItem(param1:*, param2:Object)
       {

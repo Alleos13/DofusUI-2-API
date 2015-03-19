@@ -4,10 +4,7 @@ package d2data
    
    public class Document extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function Document(param1:*, param2:Object)
       {

@@ -4,10 +4,7 @@ package d2network
    
    public class FightOptionsInformations extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function FightOptionsInformations(param1:*, param2:Object)
       {

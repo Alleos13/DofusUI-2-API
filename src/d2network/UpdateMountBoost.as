@@ -4,10 +4,7 @@ package d2network
    
    public class UpdateMountBoost extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function UpdateMountBoost(param1:*, param2:Object)
       {

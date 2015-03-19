@@ -2,10 +2,7 @@ package d2network
 {
    public class GameFightMonsterInformations extends GameFightAIInformations
    {
-      
-      {
-       
-      }
+
       
       public function GameFightMonsterInformations(param1:*, param2:Object)
       {

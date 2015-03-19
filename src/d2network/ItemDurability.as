@@ -4,10 +4,7 @@ package d2network
    
    public class ItemDurability extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function ItemDurability(param1:*, param2:Object)
       {

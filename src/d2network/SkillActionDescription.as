@@ -4,10 +4,7 @@ package d2network
    
    public class SkillActionDescription extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function SkillActionDescription(param1:*, param2:Object)
       {

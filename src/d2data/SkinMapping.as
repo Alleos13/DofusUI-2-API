@@ -4,10 +4,7 @@ package d2data
    
    public class SkinMapping extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function SkinMapping(param1:*, param2:Object)
       {

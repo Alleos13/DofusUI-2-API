@@ -5,10 +5,7 @@ package d2data
    
    public class SocialFightersWrapper extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function SocialFightersWrapper(param1:*, param2:Object)
       {

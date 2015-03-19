@@ -4,10 +4,7 @@ package d2data
    
    public class MapScrollAction extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function MapScrollAction(param1:*, param2:Object)
       {

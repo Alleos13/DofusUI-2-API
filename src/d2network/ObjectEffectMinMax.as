@@ -2,10 +2,7 @@ package d2network
 {
    public class ObjectEffectMinMax extends ObjectEffect
    {
-      
-      {
-       
-      }
+
       
       public function ObjectEffectMinMax(param1:*, param2:Object)
       {

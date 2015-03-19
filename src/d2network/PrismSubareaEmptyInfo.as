@@ -4,10 +4,7 @@ package d2network
    
    public class PrismSubareaEmptyInfo extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function PrismSubareaEmptyInfo(param1:*, param2:Object)
       {

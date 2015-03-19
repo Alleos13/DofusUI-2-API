@@ -4,10 +4,7 @@ package d2network
    
    public class ObjectEffect extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function ObjectEffect(param1:*, param2:Object)
       {

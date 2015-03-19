@@ -4,10 +4,7 @@ package d2data
    
    public class GridItem extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function GridItem(param1:*, param2:Object)
       {

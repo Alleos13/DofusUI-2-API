@@ -4,10 +4,7 @@ package d2network
    
    public class FightResultListEntry extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function FightResultListEntry(param1:*, param2:Object)
       {

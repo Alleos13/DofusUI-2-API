@@ -4,10 +4,7 @@ package d2network
    
    public class QuestObjectiveInformations extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function QuestObjectiveInformations(param1:*, param2:Object)
       {

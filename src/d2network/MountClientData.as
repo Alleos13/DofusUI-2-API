@@ -4,10 +4,7 @@ package d2network
    
    public class MountClientData extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function MountClientData(param1:*, param2:Object)
       {

@@ -2,10 +2,7 @@ package d2network
 {
    public class FightResultPvpData extends FightResultAdditionalData
    {
-      
-      {
-       
-      }
+
       
       public function FightResultPvpData(param1:*, param2:Object)
       {

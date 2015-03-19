@@ -4,10 +4,7 @@ package d2network
    
    public class StartupActionAddObject extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function StartupActionAddObject(param1:*, param2:Object)
       {

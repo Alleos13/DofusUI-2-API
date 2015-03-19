@@ -4,10 +4,7 @@ package d2data
    
    public class TreasureHuntStepWrapper extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function TreasureHuntStepWrapper(param1:*, param2:Object)
       {

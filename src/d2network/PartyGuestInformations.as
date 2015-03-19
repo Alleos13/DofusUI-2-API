@@ -4,10 +4,7 @@ package d2network
    
    public class PartyGuestInformations extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function PartyGuestInformations(param1:*, param2:Object)
       {

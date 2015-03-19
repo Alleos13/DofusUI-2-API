@@ -4,10 +4,7 @@ package d2data
    
    public class SoundUiHook extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function SoundUiHook(param1:*, param2:Object)
       {

@@ -4,10 +4,7 @@ package d2data
    
    public class Url extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function Url(param1:*, param2:Object)
       {

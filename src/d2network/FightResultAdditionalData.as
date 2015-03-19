@@ -4,12 +4,8 @@ package d2network
    
    public class FightResultAdditionalData extends ReadOnlyData
    {
-      
-      {
-       
-      }
-      
-      public function FightResultAdditionalData(param1:*, param2:Object)
+
+      public function FightResultAdditionalData(param1:*, param2:Object):void
       {
           
       }

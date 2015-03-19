@@ -4,10 +4,7 @@ package d2network
    
    public class TaxCollectorName extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function TaxCollectorName(param1:*, param2:Object)
       {

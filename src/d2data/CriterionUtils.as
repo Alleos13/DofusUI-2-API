@@ -4,10 +4,7 @@ package d2data
    
    public class CriterionUtils extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function CriterionUtils(param1:*, param2:Object)
       {

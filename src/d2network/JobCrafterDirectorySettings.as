@@ -4,10 +4,7 @@ package d2network
    
    public class JobCrafterDirectorySettings extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function JobCrafterDirectorySettings(param1:*, param2:Object)
       {

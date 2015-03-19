@@ -4,10 +4,7 @@ package d2utils
    
    public dynamic class UiGroup extends DirectAccessObject
    {
-      
-      {
-       
-      }
+
       
       public function UiGroup(param1:*, param2:Object)
       {

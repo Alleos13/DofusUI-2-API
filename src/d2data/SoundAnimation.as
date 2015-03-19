@@ -4,10 +4,7 @@ package d2data
    
    public class SoundAnimation extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function SoundAnimation(param1:*, param2:Object)
       {

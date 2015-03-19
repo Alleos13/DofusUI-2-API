@@ -4,10 +4,7 @@ package d2network
    
    public class HouseInformationsForGuild extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function HouseInformationsForGuild(param1:*, param2:Object)
       {

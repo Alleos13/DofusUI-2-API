@@ -4,10 +4,7 @@ package d2data
    
    public class LivingObjectSkinJntMood extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function LivingObjectSkinJntMood(param1:*, param2:Object)
       {

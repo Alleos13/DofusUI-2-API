@@ -4,10 +4,7 @@ package d2network
    
    public class IndexedEntityLook extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function IndexedEntityLook(param1:*, param2:Object)
       {

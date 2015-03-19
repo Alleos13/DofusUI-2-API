@@ -2,10 +2,7 @@ package d2network
 {
    public class ObjectEffectDice extends ObjectEffect
    {
-      
-      {
-       
-      }
+
       
       public function ObjectEffectDice(param1:*, param2:Object)
       {

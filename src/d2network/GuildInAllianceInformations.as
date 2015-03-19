@@ -2,10 +2,7 @@ package d2network
 {
    public class GuildInAllianceInformations extends GuildInformations
    {
-      
-      {
-       
-      }
+
       
       public function GuildInAllianceInformations(param1:*, param2:Object)
       {

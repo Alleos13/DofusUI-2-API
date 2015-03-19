@@ -2,10 +2,7 @@ package d2network
 {
    public class GameRolePlayNpcInformations extends GameRolePlayActorInformations
    {
-      
-      {
-       
-      }
+
       
       public function GameRolePlayNpcInformations(param1:*, param2:Object)
       {

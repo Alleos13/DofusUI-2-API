@@ -4,10 +4,7 @@ package d2network
    
    public class PresetItem extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function PresetItem(param1:*, param2:Object)
       {

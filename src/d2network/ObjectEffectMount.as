@@ -2,10 +2,7 @@ package d2network
 {
    public class ObjectEffectMount extends ObjectEffect
    {
-      
-      {
-       
-      }
+
       
       public function ObjectEffectMount(param1:*, param2:Object)
       {

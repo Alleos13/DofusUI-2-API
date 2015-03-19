@@ -4,10 +4,7 @@ package d2network
    
    public class TrustCertificate extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function TrustCertificate(param1:*, param2:Object)
       {

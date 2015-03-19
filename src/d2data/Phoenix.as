@@ -4,10 +4,7 @@ package d2data
    
    public class Phoenix extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function Phoenix(param1:*, param2:Object)
       {

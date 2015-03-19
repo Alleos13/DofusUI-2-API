@@ -2,10 +2,7 @@ package d2network
 {
    public class ObjectItemNotInContainer extends Item
    {
-      
-      {
-       
-      }
+
       
       public function ObjectItemNotInContainer(param1:*, param2:Object)
       {

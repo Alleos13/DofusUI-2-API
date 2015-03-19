@@ -4,10 +4,7 @@ package d2network
    
    public class AllianceVersatileInformations extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function AllianceVersatileInformations(param1:*, param2:Object)
       {

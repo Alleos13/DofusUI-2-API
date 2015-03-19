@@ -4,10 +4,7 @@ package d2network
    
    public class GuildVersatileInformations extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function GuildVersatileInformations(param1:*, param2:Object)
       {

@@ -4,10 +4,7 @@ package d2data
    
    public class MountBone extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function MountBone(param1:*, param2:Object)
       {

@@ -13,10 +13,7 @@ package d2components
    
    public class SecureComponent extends Proxy implements Secure
    {
-      
-      {
-       
-      }
+
       
       public function SecureComponent(param1:Object, param2:Object)
       {

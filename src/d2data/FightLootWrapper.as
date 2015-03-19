@@ -4,10 +4,7 @@ package d2data
    
    public class FightLootWrapper extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function FightLootWrapper(param1:*, param2:Object)
       {

@@ -4,10 +4,7 @@ package d2network
    
    public class InteractiveElement extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function InteractiveElement(param1:*, param2:Object)
       {

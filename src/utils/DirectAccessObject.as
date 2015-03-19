@@ -7,10 +7,7 @@ package utils
    
    public class DirectAccessObject extends Object
    {
-      
-      {
-       
-      }
+
       
       public function DirectAccessObject(param1:Object, param2:Object)
       {

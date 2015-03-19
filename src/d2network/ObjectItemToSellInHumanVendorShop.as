@@ -2,10 +2,7 @@ package d2network
 {
    public class ObjectItemToSellInHumanVendorShop extends Item
    {
-      
-      {
-       
-      }
+
       
       public function ObjectItemToSellInHumanVendorShop(param1:*, param2:Object)
       {

@@ -2,10 +2,7 @@ package d2network
 {
    public class TreasureHuntStepFollowDirection extends TreasureHuntStep
    {
-      
-      {
-       
-      }
+
       
       public function TreasureHuntStepFollowDirection(param1:*, param2:Object)
       {

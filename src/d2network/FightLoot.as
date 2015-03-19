@@ -4,10 +4,7 @@ package d2network
    
    public class FightLoot extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function FightLoot(param1:*, param2:Object)
       {

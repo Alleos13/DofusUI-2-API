@@ -4,10 +4,7 @@ package d2data
    
    public class SpeakingItemsTrigger extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function SpeakingItemsTrigger(param1:*, param2:Object)
       {

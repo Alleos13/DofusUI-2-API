@@ -2,10 +2,7 @@ package d2network
 {
    public class ObjectEffectDate extends ObjectEffect
    {
-      
-      {
-       
-      }
+
       
       public function ObjectEffectDate(param1:*, param2:Object)
       {

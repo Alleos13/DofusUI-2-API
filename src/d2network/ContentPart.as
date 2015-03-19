@@ -4,10 +4,7 @@ package d2network
    
    public class ContentPart extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function ContentPart(param1:*, param2:Object)
       {

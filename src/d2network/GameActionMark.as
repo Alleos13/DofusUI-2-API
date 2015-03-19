@@ -4,10 +4,7 @@ package d2network
    
    public class GameActionMark extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function GameActionMark(param1:*, param2:Object)
       {

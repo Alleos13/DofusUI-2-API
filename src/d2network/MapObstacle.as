@@ -4,10 +4,7 @@ package d2network
    
    public class MapObstacle extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function MapObstacle(param1:*, param2:Object)
       {

@@ -2,10 +2,7 @@ package d2network
 {
    public class PrismGeolocalizedInformation extends PrismSubareaEmptyInfo
    {
-      
-      {
-       
-      }
+
       
       public function PrismGeolocalizedInformation(param1:*, param2:Object)
       {

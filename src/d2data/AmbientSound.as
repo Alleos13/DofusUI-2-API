@@ -4,10 +4,7 @@ package d2data
    
    public class AmbientSound extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function AmbientSound(param1:*, param2:Object)
       {

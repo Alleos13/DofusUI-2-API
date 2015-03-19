@@ -4,10 +4,7 @@ package d2network
    
    public class PartyMemberGeoPosition extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function PartyMemberGeoPosition(param1:*, param2:Object)
       {

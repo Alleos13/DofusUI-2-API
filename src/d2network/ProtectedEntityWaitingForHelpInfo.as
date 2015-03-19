@@ -4,10 +4,7 @@ package d2network
    
    public class ProtectedEntityWaitingForHelpInfo extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function ProtectedEntityWaitingForHelpInfo(param1:*, param2:Object)
       {

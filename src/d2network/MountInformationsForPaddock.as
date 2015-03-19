@@ -4,10 +4,7 @@ package d2network
    
    public class MountInformationsForPaddock extends ReadOnlyData
    {
-      
-      {
-       
-      }
+
       
       public function MountInformationsForPaddock(param1:*, param2:Object)
       {
