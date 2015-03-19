@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ContactLook extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ContactLook {
 
 
-      public function ContactLook() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class GuildHouseRemoved extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class GuildHouseRemoved {
 
 
-      public function GuildHouseRemoved() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class EmoteUnabledListUpdated extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class EmoteUnabledListUpdated {
 
 
-      public function EmoteUnabledListUpdated() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

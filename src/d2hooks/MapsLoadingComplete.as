@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class MapsLoadingComplete extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class MapsLoadingComplete {
 
 
-      public function MapsLoadingComplete() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

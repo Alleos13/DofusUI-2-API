@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ExchangeLeave extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ExchangeLeave {
 
 
-      public function ExchangeLeave() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

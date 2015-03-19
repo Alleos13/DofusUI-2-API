@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class MountStableUpdate extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class MountStableUpdate {
 
 
-      public function MountStableUpdate() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

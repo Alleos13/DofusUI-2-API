@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class CalendarDate extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class CalendarDate {
 
 
-      public function CalendarDate() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

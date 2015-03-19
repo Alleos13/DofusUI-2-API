@@ -1,22 +1,13 @@
-package d2network
-{
-   import utils.ReadOnlyData;
-   
-   public class AbstractCharacterInformation extends ReadOnlyData
-   {
-      
-      {
-      //Décompilation abandonné
-      }
-      
-      public function AbstractCharacterInformation(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get id() : uint
-      {
-         //Décompilation abandonné
-      }
-   }
-}
+﻿ 
+package  d2network{
+    public class AbstractCharacterInformation {
+
+
+        public function get id():uint{
+            return (new uint());
+        }
+
+
+    }
+}//package d2network
+

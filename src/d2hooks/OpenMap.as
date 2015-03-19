@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class OpenMap extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class OpenMap {
 
 
-      public function OpenMap() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

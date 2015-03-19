@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class StatsUpgradeResult extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class StatsUpgradeResult {
 
 
-      public function StatsUpgradeResult() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

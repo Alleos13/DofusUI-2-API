@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class PresetsUpdate extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class PresetsUpdate {
 
 
-      public function PresetsUpdate() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

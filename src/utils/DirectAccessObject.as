@@ -9,12 +9,12 @@ package utils
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function DirectAccessObject(param1:Object, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
       
       protected static var _accessKey:Object;
@@ -25,12 +25,12 @@ package utils
       
       public static function init(param1:Object) : void
       {
-         //Décompilation abandonné
+          
       }
       
       public static function create(param1:Object, param2:String, param3:Object) : DirectAccessObject
       {
-         //Décompilation abandonné
+          
       }
       
       protected var _target:Object;
@@ -41,12 +41,12 @@ package utils
       
       public function get simplyfiedQualifiedClassName() : String
       {
-         //Décompilation abandonné
+          
       }
       
       public function getObject(param1:Object) : *
       {
-         //Décompilation abandonné
+          
       }
    }
 }

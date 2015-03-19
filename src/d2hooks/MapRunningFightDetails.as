@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class MapRunningFightDetails extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class MapRunningFightDetails {
 
 
-      public function MapRunningFightDetails() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

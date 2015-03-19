@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class MountRiding extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class MountRiding {
 
 
-      public function MountRiding() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

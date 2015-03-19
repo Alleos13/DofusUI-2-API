@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ClientUIOpened extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ClientUIOpened {
 
 
-      public function ClientUIOpened() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

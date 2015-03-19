@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class MouseClick extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class MouseClick {
 
 
-      public function MouseClick() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

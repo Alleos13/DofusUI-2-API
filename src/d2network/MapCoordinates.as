@@ -6,22 +6,22 @@ package d2network
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function MapCoordinates(param1:*, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
       
       public function get worldX() : int
       {
-         //Décompilation abandonné
+          
       }
       
       public function get worldY() : int
       {
-         //Décompilation abandonné
+          
       }
    }
 }

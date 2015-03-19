@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class OpenSpellInterface extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class OpenSpellInterface {
 
 
-      public function OpenSpellInterface() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

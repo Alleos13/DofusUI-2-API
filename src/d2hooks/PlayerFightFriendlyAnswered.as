@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class PlayerFightFriendlyAnswered extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class PlayerFightFriendlyAnswered {
 
 
-      public function PlayerFightFriendlyAnswered() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -4,12 +4,12 @@ package d2data
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function AlignmentLevelItemCriterion(param1:*, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
    }
 }

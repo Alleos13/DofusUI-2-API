@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class AuthentificationStart extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class AuthentificationStart {
 
 
-      public function AuthentificationStart() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

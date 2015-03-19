@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class AllDownloadTerminated extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class AllDownloadTerminated {
 
 
-      public function AllDownloadTerminated() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

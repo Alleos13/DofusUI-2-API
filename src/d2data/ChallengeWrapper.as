@@ -6,12 +6,12 @@ package d2data
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function ChallengeWrapper(param1:*, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
    }
 }

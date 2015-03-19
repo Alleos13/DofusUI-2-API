@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class SecureModeChange extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class SecureModeChange {
 
 
-      public function SecureModeChange() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

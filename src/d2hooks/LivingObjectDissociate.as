@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class LivingObjectDissociate extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class LivingObjectDissociate {
 
 
-      public function LivingObjectDissociate() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

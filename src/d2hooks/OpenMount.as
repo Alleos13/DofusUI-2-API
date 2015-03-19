@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class OpenMount extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class OpenMount {
 
 
-      public function OpenMount() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

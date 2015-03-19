@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class CharacterCreationResult extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class CharacterCreationResult {
 
 
-      public function CharacterCreationResult() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

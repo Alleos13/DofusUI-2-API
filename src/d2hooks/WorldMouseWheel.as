@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class WorldMouseWheel extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class WorldMouseWheel {
 
 
-      public function WorldMouseWheel() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

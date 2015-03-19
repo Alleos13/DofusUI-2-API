@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class JobCrafterContactLook extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class JobCrafterContactLook {
 
 
-      public function JobCrafterContactLook() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

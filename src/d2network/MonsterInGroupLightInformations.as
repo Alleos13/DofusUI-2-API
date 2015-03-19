@@ -1,27 +1,17 @@
-package d2network
-{
-   import utils.ReadOnlyData;
-   
-   public class MonsterInGroupLightInformations extends ReadOnlyData
-   {
-      
-      {
-      //Décompilation abandonné
-      }
-      
-      public function MonsterInGroupLightInformations(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get creatureGenericId() : int
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get grade() : uint
-      {
-         //Décompilation abandonné
-      }
-   }
-}
+﻿ 
+package  d2network{
+    public class MonsterInGroupLightInformations {
+
+
+        public function get creatureGenericId():int{
+            return (new int());
+        }
+
+        public function get grade():uint{
+            return (new uint());
+        }
+
+
+    }
+}//package d2network
+

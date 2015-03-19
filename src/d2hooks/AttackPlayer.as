@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class AttackPlayer extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class AttackPlayer {
 
 
-      public function AttackPlayer() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class PartyCannotJoinError extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class PartyCannotJoinError {
 
 
-      public function PartyCannotJoinError() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

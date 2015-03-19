@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class StorageKamasUpdate extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class StorageKamasUpdate {
 
 
-      public function StorageKamasUpdate() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

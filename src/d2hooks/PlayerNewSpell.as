@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class PlayerNewSpell extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class PlayerNewSpell {
 
 
-      public function PlayerNewSpell() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

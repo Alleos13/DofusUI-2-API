@@ -6,17 +6,17 @@ package d2network
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function Shortcut(param1:*, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
       
       public function get slot() : uint
       {
-         //Décompilation abandonné
+          
       }
    }
 }

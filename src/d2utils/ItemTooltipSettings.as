@@ -1,67 +1,54 @@
-package d2utils
-{
-   import utils.DirectAccessObject;
-   
-   public dynamic class ItemTooltipSettings extends DirectAccessObject
-   {
-      
-      {
-      //Décompilation abandonné
-      }
-      
-      public function ItemTooltipSettings(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get header() : Boolean
-      {
-         //Décompilation abandonné
-      }
-      
-      public function set header(param1:Boolean) : void
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get effects() : Boolean
-      {
-         //Décompilation abandonné
-      }
-      
-      public function set effects(param1:Boolean) : void
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get conditions() : Boolean
-      {
-         //Décompilation abandonné
-      }
-      
-      public function set conditions(param1:Boolean) : void
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get description() : Boolean
-      {
-         //Décompilation abandonné
-      }
-      
-      public function set description(param1:Boolean) : void
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get averagePrice() : Boolean
-      {
-         //Décompilation abandonné
-      }
-      
-      public function set averagePrice(param1:Boolean) : void
-      {
-         //Décompilation abandonné
-      }
-   }
-}
+﻿ 
+package  d2utils{
+    public class ItemTooltipSettings {
+
+
+        [Untrusted]
+        public function get header():Boolean{
+            return (false);
+        }
+
+        [Untrusted]
+        public function set header(value:Boolean):void{
+        }
+
+        [Untrusted]
+        public function get effects():Boolean{
+            return (false);
+        }
+
+        [Untrusted]
+        public function set effects(value:Boolean):void{
+        }
+
+        [Untrusted]
+        public function get conditions():Boolean{
+            return (false);
+        }
+
+        [Untrusted]
+        public function set conditions(value:Boolean):void{
+        }
+
+        [Untrusted]
+        public function get description():Boolean{
+            return (false);
+        }
+
+        [Untrusted]
+        public function set description(value:Boolean):void{
+        }
+
+        [Untrusted]
+        public function get averagePrice():Boolean{
+            return (false);
+        }
+
+        [Untrusted]
+        public function set averagePrice(value:Boolean):void{
+        }
+
+
+    }
+}//package d2utils
+

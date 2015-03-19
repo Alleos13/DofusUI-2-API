@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ChannelEnablingChange extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ChannelEnablingChange {
 
 
-      public function ChannelEnablingChange() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

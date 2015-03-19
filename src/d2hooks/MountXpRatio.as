@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class MountXpRatio extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class MountXpRatio {
 
 
-      public function MountXpRatio() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

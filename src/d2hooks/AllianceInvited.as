@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class AllianceInvited extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class AllianceInvited {
 
 
-      public function AllianceInvited() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

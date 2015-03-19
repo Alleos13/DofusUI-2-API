@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class IdentificationSuccess extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class IdentificationSuccess {
 
 
-      public function IdentificationSuccess() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

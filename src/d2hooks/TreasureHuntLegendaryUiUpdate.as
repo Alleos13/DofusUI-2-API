@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class TreasureHuntLegendaryUiUpdate extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class TreasureHuntLegendaryUiUpdate {
 
 
-      public function TreasureHuntLegendaryUiUpdate() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ExchangeStartOkMount extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ExchangeStartOkMount {
 
 
-      public function ExchangeStartOkMount() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class CharacterLevelUp extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class CharacterLevelUp {
 
 
-      public function CharacterLevelUp() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

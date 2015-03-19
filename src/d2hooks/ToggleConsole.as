@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ToggleConsole extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ToggleConsole {
 
 
-      public function ToggleConsole() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

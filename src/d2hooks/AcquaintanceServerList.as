@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class AcquaintanceServerList extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class AcquaintanceServerList {
 
 
-      public function AcquaintanceServerList() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

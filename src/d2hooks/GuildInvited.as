@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class GuildInvited extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class GuildInvited {
 
 
-      public function GuildInvited() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

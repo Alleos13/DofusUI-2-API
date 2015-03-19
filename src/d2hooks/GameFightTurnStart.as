@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class GameFightTurnStart extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class GameFightTurnStart {
 
 
-      public function GameFightTurnStart() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

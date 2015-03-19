@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ExchangeReplyTaxVendor extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ExchangeReplyTaxVendor {
 
 
-      public function ExchangeReplyTaxVendor() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

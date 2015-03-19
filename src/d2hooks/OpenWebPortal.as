@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class OpenWebPortal extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class OpenWebPortal {
 
 
-      public function OpenWebPortal() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

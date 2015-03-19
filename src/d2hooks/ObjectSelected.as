@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ObjectSelected extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ObjectSelected {
 
 
-      public function ObjectSelected() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -1,20 +1,13 @@
-package d2network
-{
-   public class GameFightFighterNamedLightInformations extends GameFightFighterLightInformations
-   {
-      
-      {
-      //Décompilation abandonné
-      }
-      
-      public function GameFightFighterNamedLightInformations(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get name() : String
-      {
-         //Décompilation abandonné
-      }
-   }
-}
+﻿ 
+package  d2network{
+    public class GameFightFighterNamedLightInformations extends GameFightFighterLightInformations {
+
+
+        public function get name():String{
+            return (new String());
+        }
+
+
+    }
+}//package d2network
+

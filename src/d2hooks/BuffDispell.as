@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class BuffDispell extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class BuffDispell {
 
 
-      public function BuffDispell() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

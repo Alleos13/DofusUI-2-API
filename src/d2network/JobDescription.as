@@ -1,27 +1,17 @@
-package d2network
-{
-   import utils.ReadOnlyData;
-   
-   public class JobDescription extends ReadOnlyData
-   {
-      
-      {
-      //Décompilation abandonné
-      }
-      
-      public function JobDescription(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get jobId() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get skills() : Object
-      {
-         //Décompilation abandonné
-      }
-   }
-}
+﻿ 
+package  d2network{
+    public class JobDescription {
+
+
+        public function get jobId():uint{
+            return (new uint());
+        }
+
+        public function get skills():Object{
+            return (new Object());
+        }
+
+
+    }
+}//package d2network
+

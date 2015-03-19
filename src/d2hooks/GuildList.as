@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class GuildList extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class GuildList {
 
 
-      public function GuildList() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

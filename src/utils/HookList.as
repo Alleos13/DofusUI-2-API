@@ -4,12 +4,12 @@ package utils
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function HookList()
       {
-         //Décompilation abandonné
+          
       }
       
       public static const list:Array;

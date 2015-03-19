@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class HideNotification extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class HideNotification {
 
 
-      public function HideNotification() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

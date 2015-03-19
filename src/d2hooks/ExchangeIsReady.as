@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ExchangeIsReady extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ExchangeIsReady {
 
 
-      public function ExchangeIsReady() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

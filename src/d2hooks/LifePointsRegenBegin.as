@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class LifePointsRegenBegin extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class LifePointsRegenBegin {
 
 
-      public function LifePointsRegenBegin() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ObjectQuantity extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ObjectQuantity {
 
 
-      public function ObjectQuantity() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

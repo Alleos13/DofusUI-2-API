@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class BuffUpdate extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class BuffUpdate {
 
 
-      public function BuffUpdate() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

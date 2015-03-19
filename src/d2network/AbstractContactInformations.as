@@ -6,22 +6,22 @@ package d2network
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function AbstractContactInformations(param1:*, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
       
       public function get accountId() : uint
       {
-         //Décompilation abandonné
+          
       }
       
       public function get accountName() : String
       {
-         //Décompilation abandonné
+          
       }
    }
 }

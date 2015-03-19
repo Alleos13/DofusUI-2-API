@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ApisHooksActionsList extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ApisHooksActionsList {
 
 
-      public function ApisHooksActionsList() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class OpenStats extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class OpenStats {
 
 
-      public function OpenStats() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

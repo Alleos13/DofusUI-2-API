@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class AlreadyConnected extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class AlreadyConnected {
 
 
-      public function AlreadyConnected() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

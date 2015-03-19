@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class FriendAdded extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class FriendAdded {
 
 
-      public function FriendAdded() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

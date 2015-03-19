@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class FightSpellCast extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class FightSpellCast {
 
 
-      public function FightSpellCast() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

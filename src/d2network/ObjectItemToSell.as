@@ -1,40 +1,29 @@
-package d2network
-{
-   public class ObjectItemToSell extends Item
-   {
-      
-      {
-      //Décompilation abandonné
-      }
-      
-      public function ObjectItemToSell(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get objectGID() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get effects() : Object
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get objectUID() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get quantity() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get objectPrice() : uint
-      {
-         //Décompilation abandonné
-      }
-   }
-}
+﻿ 
+package  d2network{
+    public class ObjectItemToSell extends Item {
+
+
+        public function get objectGID():uint{
+            return (new uint());
+        }
+
+        public function get effects():Object{
+            return (new Object());
+        }
+
+        public function get objectUID():uint{
+            return (new uint());
+        }
+
+        public function get quantity():uint{
+            return (new uint());
+        }
+
+        public function get objectPrice():uint{
+            return (new uint());
+        }
+
+
+    }
+}//package d2network
+

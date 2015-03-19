@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class GameFightJoin extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class GameFightJoin {
 
 
-      public function GameFightJoin() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class SpectateUpdate extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class SpectateUpdate {
 
 
-      public function SpectateUpdate() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class DoubleClickItemInventory extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class DoubleClickItemInventory {
 
 
-      public function DoubleClickItemInventory() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

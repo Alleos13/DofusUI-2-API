@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class WaveUpdated extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class WaveUpdated {
 
 
-      public function WaveUpdated() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

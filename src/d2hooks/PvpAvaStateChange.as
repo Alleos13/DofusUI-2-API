@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class PvpAvaStateChange extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class PvpAvaStateChange {
 
 
-      public function PvpAvaStateChange() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

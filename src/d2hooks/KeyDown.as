@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class KeyDown extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class KeyDown {
 
 
-      public function KeyDown() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

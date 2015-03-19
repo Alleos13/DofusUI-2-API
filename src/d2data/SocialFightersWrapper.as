@@ -7,27 +7,27 @@ package d2data
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function SocialFightersWrapper(param1:*, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
       
       public function get ally() : uint
       {
-         //Décompilation abandonné
+          
       }
       
       public function get playerCharactersInformations() : CharacterMinimalPlusLookInformations
       {
-         //Décompilation abandonné
+          
       }
       
       public function get entityLook() : Object
       {
-         //Décompilation abandonné
+          
       }
    }
 }

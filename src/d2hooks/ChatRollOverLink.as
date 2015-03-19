@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ChatRollOverLink extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ChatRollOverLink {
 
 
-      public function ChatRollOverLink() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

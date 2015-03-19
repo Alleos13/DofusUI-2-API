@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class FightText extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class FightText {
 
 
-      public function FightText() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

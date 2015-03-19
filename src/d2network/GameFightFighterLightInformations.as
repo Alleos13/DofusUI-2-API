@@ -1,47 +1,33 @@
-package d2network
-{
-   import utils.ReadOnlyData;
-   
-   public class GameFightFighterLightInformations extends ReadOnlyData
-   {
-      
-      {
-      //Décompilation abandonné
-      }
-      
-      public function GameFightFighterLightInformations(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get id() : int
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get wave() : int
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get level() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get breed() : int
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get sex() : Boolean
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get alive() : Boolean
-      {
-         //Décompilation abandonné
-      }
-   }
-}
+﻿ 
+package  d2network{
+    public class GameFightFighterLightInformations {
+
+
+        public function get id():int{
+            return (new int());
+        }
+
+        public function get wave():int{
+            return (new int());
+        }
+
+        public function get level():uint{
+            return (new uint());
+        }
+
+        public function get breed():int{
+            return (new int());
+        }
+
+        public function get sex():Boolean{
+            return (new Boolean());
+        }
+
+        public function get alive():Boolean{
+            return (new Boolean());
+        }
+
+
+    }
+}//package d2network
+

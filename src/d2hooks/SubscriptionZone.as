@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class SubscriptionZone extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class SubscriptionZone {
 
 
-      public function SubscriptionZone() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class FriendOrGuildMemberLevelUpWarningState extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class FriendOrGuildMemberLevelUpWarningState {
 
 
-      public function FriendOrGuildMemberLevelUpWarningState() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

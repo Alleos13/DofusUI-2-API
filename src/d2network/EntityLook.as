@@ -1,42 +1,29 @@
-package d2network
-{
-   import utils.ReadOnlyData;
-   
-   public class EntityLook extends ReadOnlyData
-   {
-      
-      {
-      //Décompilation abandonné
-      }
-      
-      public function EntityLook(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get bonesId() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get skins() : Object
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get indexedColors() : Object
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get scales() : Object
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get subentities() : Object
-      {
-         //Décompilation abandonné
-      }
-   }
-}
+﻿ 
+package  d2network{
+    public class EntityLook {
+
+
+        public function get bonesId():uint{
+            return (new uint());
+        }
+
+        public function get skins():Object{
+            return (new Object());
+        }
+
+        public function get indexedColors():Object{
+            return (new Object());
+        }
+
+        public function get scales():Object{
+            return (new Object());
+        }
+
+        public function get subentities():Object{
+            return (new Object());
+        }
+
+
+    }
+}//package d2network
+

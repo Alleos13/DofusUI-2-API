@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class RewardableAchievementsVisible extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class RewardableAchievementsVisible {
 
 
-      public function RewardableAchievementsVisible() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

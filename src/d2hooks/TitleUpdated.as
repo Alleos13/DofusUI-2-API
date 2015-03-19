@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class TitleUpdated extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class TitleUpdated {
 
 
-      public function TitleUpdated() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

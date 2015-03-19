@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class MailStatus extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class MailStatus {
 
 
-      public function MailStatus() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

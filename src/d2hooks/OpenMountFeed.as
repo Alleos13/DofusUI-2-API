@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class OpenMountFeed extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class OpenMountFeed {
 
 
-      public function OpenMountFeed() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

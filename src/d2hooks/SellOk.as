@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class SellOk extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class SellOk {
 
 
-      public function SellOk() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

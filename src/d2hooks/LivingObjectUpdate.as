@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class LivingObjectUpdate extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class LivingObjectUpdate {
 
 
-      public function LivingObjectUpdate() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

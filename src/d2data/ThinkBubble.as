@@ -6,12 +6,12 @@ package d2data
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function ThinkBubble(param1:*, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
    }
 }

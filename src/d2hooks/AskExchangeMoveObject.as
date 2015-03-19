@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class AskExchangeMoveObject extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class AskExchangeMoveObject {
 
 
-      public function AskExchangeMoveObject() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

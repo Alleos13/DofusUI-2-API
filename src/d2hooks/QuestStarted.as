@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class QuestStarted extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class QuestStarted {
 
 
-      public function QuestStarted() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

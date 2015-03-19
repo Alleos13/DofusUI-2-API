@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class CloseStore extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class CloseStore {
 
 
-      public function CloseStore() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

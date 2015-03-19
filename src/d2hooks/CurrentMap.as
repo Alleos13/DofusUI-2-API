@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class CurrentMap extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class CurrentMap {
 
 
-      public function CurrentMap() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

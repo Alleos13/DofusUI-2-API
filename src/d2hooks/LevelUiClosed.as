@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class LevelUiClosed extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class LevelUiClosed {
 
 
-      public function LevelUiClosed() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

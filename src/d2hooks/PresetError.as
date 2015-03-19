@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class PresetError extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class PresetError {
 
 
-      public function PresetError() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

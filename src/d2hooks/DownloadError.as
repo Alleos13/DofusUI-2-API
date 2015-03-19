@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class DownloadError extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class DownloadError {
 
 
-      public function DownloadError() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

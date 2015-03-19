@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class LockableCodeResult extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class LockableCodeResult {
 
 
-      public function LockableCodeResult() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -6,22 +6,22 @@ package d2network
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function JobCrafterDirectoryListEntry(param1:*, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
       
       public function get playerInfo() : JobCrafterDirectoryEntryPlayerInfo
       {
-         //Décompilation abandonné
+          
       }
       
       public function get jobInfo() : JobCrafterDirectoryEntryJobInfo
       {
-         //Décompilation abandonné
+          
       }
    }
 }

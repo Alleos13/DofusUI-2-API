@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class CastSpellMode extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class CastSpellMode {
 
 
-      public function CastSpellMode() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -6,22 +6,22 @@ package d2network
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function ItemDurability(param1:*, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
       
       public function get durability() : int
       {
-         //Décompilation abandonné
+          
       }
       
       public function get durabilityMax() : int
       {
-         //Décompilation abandonné
+          
       }
    }
 }

@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class IdentificationFailedWithDuration extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class IdentificationFailedWithDuration {
 
 
-      public function IdentificationFailedWithDuration() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

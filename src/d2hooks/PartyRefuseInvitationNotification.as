@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class PartyRefuseInvitationNotification extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class PartyRefuseInvitationNotification {
 
 
-      public function PartyRefuseInvitationNotification() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

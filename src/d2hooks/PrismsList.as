@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class PrismsList extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class PrismsList {
 
 
-      public function PrismsList() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

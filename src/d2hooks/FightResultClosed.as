@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class FightResultClosed extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class FightResultClosed {
 
 
-      public function FightResultClosed() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

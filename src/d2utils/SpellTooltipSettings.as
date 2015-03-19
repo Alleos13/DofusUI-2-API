@@ -1,57 +1,45 @@
-package d2utils
-{
-   import utils.DirectAccessObject;
-   
-   public dynamic class SpellTooltipSettings extends DirectAccessObject
-   {
-      
-      {
-      //Décompilation abandonné
-      }
-      
-      public function SpellTooltipSettings(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get header() : Boolean
-      {
-         //Décompilation abandonné
-      }
-      
-      public function set header(param1:Boolean) : void
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get effects() : Boolean
-      {
-         //Décompilation abandonné
-      }
-      
-      public function set effects(param1:Boolean) : void
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get description() : Boolean
-      {
-         //Décompilation abandonné
-      }
-      
-      public function set description(param1:Boolean) : void
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get CC_EC() : Boolean
-      {
-         //Décompilation abandonné
-      }
-      
-      public function set CC_EC(param1:Boolean) : void
-      {
-         //Décompilation abandonné
-      }
-   }
-}
+﻿ 
+package  d2utils{
+    public class SpellTooltipSettings {
+
+
+        [Untrusted]
+        public function get header():Boolean{
+            return (false);
+        }
+
+        [Untrusted]
+        public function set header(value:Boolean):void{
+        }
+
+        [Untrusted]
+        public function get effects():Boolean{
+            return (false);
+        }
+
+        [Untrusted]
+        public function set effects(value:Boolean):void{
+        }
+
+        [Untrusted]
+        public function get description():Boolean{
+            return (false);
+        }
+
+        [Untrusted]
+        public function set description(value:Boolean):void{
+        }
+
+        [Untrusted]
+        public function get CC_EC():Boolean{
+            return (false);
+        }
+
+        [Untrusted]
+        public function set CC_EC(value:Boolean):void{
+        }
+
+
+    }
+}//package d2utils
+

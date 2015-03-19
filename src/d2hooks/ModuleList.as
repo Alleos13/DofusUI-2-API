@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ModuleList extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ModuleList {
 
 
-      public function ModuleList() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class UpdatePreFightersList extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class UpdatePreFightersList {
 
 
-      public function UpdatePreFightersList() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

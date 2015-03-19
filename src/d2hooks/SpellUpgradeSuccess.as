@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class SpellUpgradeSuccess extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class SpellUpgradeSuccess {
 
 
-      public function SpellUpgradeSuccess() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

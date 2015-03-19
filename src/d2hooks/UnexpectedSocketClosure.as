@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class UnexpectedSocketClosure extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class UnexpectedSocketClosure {
 
 
-      public function UnexpectedSocketClosure() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

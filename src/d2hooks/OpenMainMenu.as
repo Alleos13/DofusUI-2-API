@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class OpenMainMenu extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class OpenMainMenu {
 
 
-      public function OpenMainMenu() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

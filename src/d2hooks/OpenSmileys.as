@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class OpenSmileys extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class OpenSmileys {
 
 
-      public function OpenSmileys() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

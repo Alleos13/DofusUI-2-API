@@ -1,47 +1,33 @@
-package d2network
-{
-   import utils.ReadOnlyData;
-   
-   public class Version extends ReadOnlyData
-   {
-      
-      {
-      //Décompilation abandonné
-      }
-      
-      public function Version(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get major() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get minor() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get release() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get revision() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get patch() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get buildType() : uint
-      {
-         //Décompilation abandonné
-      }
-   }
-}
+﻿ 
+package  d2network{
+    public class Version {
+
+
+        public function get major():uint{
+            return (new uint());
+        }
+
+        public function get minor():uint{
+            return (new uint());
+        }
+
+        public function get release():uint{
+            return (new uint());
+        }
+
+        public function get revision():uint{
+            return (new uint());
+        }
+
+        public function get patch():uint{
+            return (new uint());
+        }
+
+        public function get buildType():uint{
+            return (new uint());
+        }
+
+
+    }
+}//package d2network
+

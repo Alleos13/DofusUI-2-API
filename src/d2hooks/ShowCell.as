@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ShowCell extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ShowCell {
 
 
-      public function ShowCell() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

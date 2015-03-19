@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class CharacterImpossibleSelection extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class CharacterImpossibleSelection {
 
 
-      public function CharacterImpossibleSelection() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

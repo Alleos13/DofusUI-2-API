@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class SmileysStart extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class SmileysStart {
 
 
-      public function SmileysStart() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

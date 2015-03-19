@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ChatWarning extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ChatWarning {
 
 
-      public function ChatWarning() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

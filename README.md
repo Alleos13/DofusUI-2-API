@@ -8,4 +8,5 @@ Generated with [Dofus 2.0 ui decomp SRCS](https://github.com/Emudofus/Dofus/tree
 * Download the swc library file for your Dofus version on [Releases list](https://github.com/Alleos13/DofusUI-2-API/releases)
 * Import this lib on your project (Using Flash Builder, Adobe Flash...) on ActionScript 3.0 config/libs
 * Configure this lib as "merged on code"
+* Configure as3 compiler for keeping `Module`, `Trusted` and `Untrusted` Metadata attributes
 * Build ur own Dofus2 UI !

@@ -6,12 +6,12 @@ package d2network
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function TreasureHuntStep(param1:*, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
    }
 }

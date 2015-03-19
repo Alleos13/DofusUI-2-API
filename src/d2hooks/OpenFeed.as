@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class OpenFeed extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class OpenFeed {
 
 
-      public function OpenFeed() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

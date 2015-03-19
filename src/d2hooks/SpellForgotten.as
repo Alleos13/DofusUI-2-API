@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class SpellForgotten extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class SpellForgotten {
 
 
-      public function SpellForgotten() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

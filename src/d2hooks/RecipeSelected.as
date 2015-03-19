@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class RecipeSelected extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class RecipeSelected {
 
 
-      public function RecipeSelected() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

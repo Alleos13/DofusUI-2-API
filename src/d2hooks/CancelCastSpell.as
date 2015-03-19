@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class CancelCastSpell extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class CancelCastSpell {
 
 
-      public function CancelCastSpell() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

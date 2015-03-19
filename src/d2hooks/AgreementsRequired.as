@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class AgreementsRequired extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class AgreementsRequired {
 
 
-      public function AgreementsRequired() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

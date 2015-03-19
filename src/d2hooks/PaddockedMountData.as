@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class PaddockedMountData extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class PaddockedMountData {
 
 
-      public function PaddockedMountData() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

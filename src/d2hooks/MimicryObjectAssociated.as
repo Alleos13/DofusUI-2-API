@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class MimicryObjectAssociated extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class MimicryObjectAssociated {
 
 
-      public function MimicryObjectAssociated() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ExchangeStartOkMultiCraft extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ExchangeStartOkMultiCraft {
 
 
-      public function ExchangeStartOkMultiCraft() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

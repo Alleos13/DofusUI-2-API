@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class OpenOneAlliance extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class OpenOneAlliance {
 
 
-      public function OpenOneAlliance() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

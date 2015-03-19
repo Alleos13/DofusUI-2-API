@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ClosePopup extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ClosePopup {
 
 
-      public function ClosePopup() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

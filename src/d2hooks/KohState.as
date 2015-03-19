@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class KohState extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class KohState {
 
 
-      public function KohState() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

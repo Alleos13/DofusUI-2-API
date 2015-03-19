@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class AddItemHyperlink extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class AddItemHyperlink {
 
 
-      public function AddItemHyperlink() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

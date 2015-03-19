@@ -1,10 +1,8 @@
-package d2data
-{
-   public class QuantifiedItemWrapper extends ItemWrapper
-   {
-      
-      public function QuantifiedItemWrapper() {
-         super();
-      }
-   }
-}
+﻿ 
+package  d2data{
+    public class QuantifiedItemWrapper extends ItemWrapper {
+
+
+    }
+}//package d2data
+

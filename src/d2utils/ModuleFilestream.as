@@ -1,163 +1,142 @@
-package d2utils
-{
-   import utils.DirectAccessObject;
-   import flash.utils.ByteArray;
-   
-   public dynamic class ModuleFilestream extends DirectAccessObject
-   {
-      
-      {
-      //Décompilation abandonné
-      }
-      
-      public function ModuleFilestream(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get endian() : String
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get path() : String
-      {
-         //Décompilation abandonné
-      }
-      
-      public function set endian(param1:String) : void
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get bytesAvailable() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get position() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function set position(param1:uint) : void
-      {
-         //Décompilation abandonné
-      }
-      
-      public function close() : void
-      {
-         //Décompilation abandonné
-      }
-      
-      public function readBytes(param1:ByteArray, param2:uint = 0, param3:uint = 0) : void
-      {
-         //Décompilation abandonné
-      }
-      
-      public function readBoolean() : Boolean
-      {
-         //Décompilation abandonné
-      }
-      
-      public function readByte() : int
-      {
-         //Décompilation abandonné
-      }
-      
-      public function readUnsignedByte() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function readShort() : int
-      {
-         //Décompilation abandonné
-      }
-      
-      public function readUnsignedShort() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function readInt() : int
-      {
-         //Décompilation abandonné
-      }
-      
-      public function readUnsignedInt() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function readFloat() : Number
-      {
-         //Décompilation abandonné
-      }
-      
-      public function readDouble() : Number
-      {
-         //Décompilation abandonné
-      }
-      
-      public function readUTF() : String
-      {
-         //Décompilation abandonné
-      }
-      
-      public function readUTFBytes(param1:uint) : String
-      {
-         //Décompilation abandonné
-      }
-      
-      public function writeBytes(param1:ByteArray, param2:uint = 0, param3:uint = 0) : void
-      {
-         //Décompilation abandonné
-      }
-      
-      public function writeBoolean(param1:Boolean) : void
-      {
-         //Décompilation abandonné
-      }
-      
-      public function writeByte(param1:int) : void
-      {
-         //Décompilation abandonné
-      }
-      
-      public function writeShort(param1:int) : void
-      {
-         //Décompilation abandonné
-      }
-      
-      public function writeInt(param1:int) : void
-      {
-         //Décompilation abandonné
-      }
-      
-      public function writeUnsignedInt(param1:uint) : void
-      {
-         //Décompilation abandonné
-      }
-      
-      public function writeFloat(param1:Number) : void
-      {
-         //Décompilation abandonné
-      }
-      
-      public function writeDouble(param1:Number) : void
-      {
-         //Décompilation abandonné
-      }
-      
-      public function writeUTF(param1:String) : void
-      {
-         //Décompilation abandonné
-      }
-      
-      public function writeUTFBytes(param1:String) : void
-      {
-         //Décompilation abandonné
-      }
-   }
-}
+﻿ 
+package  d2utils{
+    import flash.utils.ByteArray;
+
+    public class ModuleFilestream {
+
+
+        [Untrusted]
+        public function get endian():String{
+            return (null);
+        }
+
+        [Untrusted]
+        public function get path():String{
+            return (null);
+        }
+
+        [Untrusted]
+        public function set endian(_arg_1:String):void{
+        }
+
+        [Untrusted]
+        public function get bytesAvailable():uint{
+            return (0);
+        }
+
+        [Untrusted]
+        public function get position():uint{
+            return (0);
+        }
+
+        [Untrusted]
+        public function set position(offset:uint):void{
+        }
+
+        [Untrusted]
+        public function close():void{
+        }
+
+        [Untrusted]
+        public function readBytes(bytes:ByteArray, offset:uint=0, length:uint=0):void{
+        }
+
+        [Untrusted]
+        public function readBoolean():Boolean{
+            return (false);
+        }
+
+        [Untrusted]
+        public function readByte():int{
+            return (0);
+        }
+
+        [Untrusted]
+        public function readUnsignedByte():uint{
+            return (0);
+        }
+
+        [Untrusted]
+        public function readShort():int{
+            return (0);
+        }
+
+        [Untrusted]
+        public function readUnsignedShort():uint{
+            return (0);
+        }
+
+        [Untrusted]
+        public function readInt():int{
+            return (0);
+        }
+
+        [Untrusted]
+        public function readUnsignedInt():uint{
+            return (0);
+        }
+
+        [Untrusted]
+        public function readFloat():Number{
+            return (0);
+        }
+
+        [Untrusted]
+        public function readDouble():Number{
+            return (0);
+        }
+
+        [Untrusted]
+        public function readUTF():String{
+            return (null);
+        }
+
+        [Untrusted]
+        public function readUTFBytes(length:uint):String{
+            return (null);
+        }
+
+        [Untrusted]
+        public function writeBytes(bytes:ByteArray, offset:uint=0, length:uint=0):void{
+        }
+
+        [Untrusted]
+        public function writeBoolean(value:Boolean):void{
+        }
+
+        [Untrusted]
+        public function writeByte(value:int):void{
+        }
+
+        [Untrusted]
+        public function writeShort(value:int):void{
+        }
+
+        [Untrusted]
+        public function writeInt(value:int):void{
+        }
+
+        [Untrusted]
+        public function writeUnsignedInt(value:uint):void{
+        }
+
+        [Untrusted]
+        public function writeFloat(value:Number):void{
+        }
+
+        [Untrusted]
+        public function writeDouble(value:Number):void{
+        }
+
+        [Untrusted]
+        public function writeUTF(value:String):void{
+        }
+
+        [Untrusted]
+        public function writeUTFBytes(value:String):void{
+        }
+
+
+    }
+}//package d2utils
+

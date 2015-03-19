@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ExchangeMultiCraftCrafterCanUseHisRessources extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ExchangeMultiCraftCrafterCanUseHisRessources {
 
 
-      public function ExchangeMultiCraftCrafterCanUseHisRessources() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

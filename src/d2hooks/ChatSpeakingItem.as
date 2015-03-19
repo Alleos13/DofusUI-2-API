@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ChatSpeakingItem extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ChatSpeakingItem {
 
 
-      public function ChatSpeakingItem() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class SilentWhoIs extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class SilentWhoIs {
 
 
-      public function SilentWhoIs() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

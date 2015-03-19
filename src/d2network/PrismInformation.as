@@ -1,42 +1,29 @@
-package d2network
-{
-   import utils.ReadOnlyData;
-   
-   public class PrismInformation extends ReadOnlyData
-   {
-      
-      {
-      //Décompilation abandonné
-      }
-      
-      public function PrismInformation(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get typeId() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get state() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get nextVulnerabilityDate() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get placementDate() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get rewardTokenCount() : uint
-      {
-         //Décompilation abandonné
-      }
-   }
-}
+﻿ 
+package  d2network{
+    public class PrismInformation {
+
+
+        public function get typeId():uint{
+            return (new uint());
+        }
+
+        public function get state():uint{
+            return (new uint());
+        }
+
+        public function get nextVulnerabilityDate():uint{
+            return (new uint());
+        }
+
+        public function get placementDate():uint{
+            return (new uint());
+        }
+
+        public function get rewardTokenCount():uint{
+            return (new uint());
+        }
+
+
+    }
+}//package d2network
+

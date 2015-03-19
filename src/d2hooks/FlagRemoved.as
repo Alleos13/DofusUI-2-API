@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class FlagRemoved extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class FlagRemoved {
 
 
-      public function FlagRemoved() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

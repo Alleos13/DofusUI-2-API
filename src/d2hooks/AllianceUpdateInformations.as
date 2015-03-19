@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class AllianceUpdateInformations extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class AllianceUpdateInformations {
 
 
-      public function AllianceUpdateInformations() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

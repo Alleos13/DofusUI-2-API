@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class DocumentReadingBegin extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class DocumentReadingBegin {
 
 
-      public function DocumentReadingBegin() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class DungeonPartyFinderAvailableDungeons extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class DungeonPartyFinderAvailableDungeons {
 
 
-      public function DungeonPartyFinderAvailableDungeons() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

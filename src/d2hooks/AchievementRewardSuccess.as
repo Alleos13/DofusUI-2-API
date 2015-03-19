@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class AchievementRewardSuccess extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class AchievementRewardSuccess {
 
 
-      public function AchievementRewardSuccess() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

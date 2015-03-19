@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ObjectDeleted extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ObjectDeleted {
 
 
-      public function ObjectDeleted() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

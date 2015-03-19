@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class GameFightStart extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class GameFightStart {
 
 
-      public function GameFightStart() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

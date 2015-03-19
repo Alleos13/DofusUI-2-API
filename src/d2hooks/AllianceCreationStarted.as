@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class AllianceCreationStarted extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class AllianceCreationStarted {
 
 
-      public function AllianceCreationStarted() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

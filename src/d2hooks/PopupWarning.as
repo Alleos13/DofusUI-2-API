@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class PopupWarning extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class PopupWarning {
 
 
-      public function PopupWarning() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

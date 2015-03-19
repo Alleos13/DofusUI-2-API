@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class MapDisplay extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class MapDisplay {
 
 
-      public function MapDisplay() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

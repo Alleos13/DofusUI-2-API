@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class KeyUp extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class KeyUp {
 
 
-      public function KeyUp() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

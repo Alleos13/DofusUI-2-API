@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ServerConnectionFailed extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ServerConnectionFailed {
 
 
-      public function ServerConnectionFailed() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

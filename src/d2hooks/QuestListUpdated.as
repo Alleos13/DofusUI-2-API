@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class QuestListUpdated extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class QuestListUpdated {
 
 
-      public function QuestListUpdated() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

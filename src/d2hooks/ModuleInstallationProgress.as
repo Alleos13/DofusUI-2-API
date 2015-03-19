@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ModuleInstallationProgress extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ModuleInstallationProgress {
 
 
-      public function ModuleInstallationProgress() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

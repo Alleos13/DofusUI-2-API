@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ChallengeInfoUpdate extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ChallengeInfoUpdate {
 
 
-      public function ChallengeInfoUpdate() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

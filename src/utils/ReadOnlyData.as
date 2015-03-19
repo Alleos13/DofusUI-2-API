@@ -11,12 +11,12 @@ package utils
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function ReadOnlyData(param1:Object, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
       
       protected static var _accessKey:Object;
@@ -35,12 +35,12 @@ package utils
       
       public static function init(param1:Object, param2:Function, param3:Function, param4:Function) : void
       {
-         //Décompilation abandonné
+          
       }
       
       public static function create(param1:Object, param2:String, param3:Object) : ReadOnlyData
       {
-         //Décompilation abandonné
+          
       }
       
       protected var _target:Object;
@@ -57,62 +57,62 @@ package utils
       
       public function get simplyfiedQualifiedClassName() : String
       {
-         //Décompilation abandonné
+          
       }
       
       public function hasOwnProperty(param1:String) : Boolean
       {
-         //Décompilation abandonné
+          
       }
       
       public function propertyIsEnumerable(param1:String) : Boolean
       {
-         //Décompilation abandonné
+          
       }
       
       public function indexOf(param1:*) : int
       {
-         //Décompilation abandonné
+          
       }
       
       public function getObject(param1:Object) : *
       {
-         //Décompilation abandonné
+          
       }
       
       override flash_proxy function callProperty(param1:*, ... rest) : *
       {
-         //Décompilation abandonné
+          
       }
       
       override flash_proxy function hasProperty(param1:*) : Boolean
       {
-         //Décompilation abandonné
+          
       }
       
       override flash_proxy function getProperty(param1:*) : *
       {
-         //Décompilation abandonné
+          
       }
       
       override flash_proxy function setProperty(param1:*, param2:*) : void
       {
-         //Décompilation abandonné
+          
       }
       
       override flash_proxy function nextNameIndex(param1:int) : int
       {
-         //Décompilation abandonné
+          
       }
       
       override flash_proxy function nextValue(param1:int) : *
       {
-         //Décompilation abandonné
+          
       }
       
       override flash_proxy function nextName(param1:int) : String
       {
-         //Décompilation abandonné
+          
       }
    }
 }

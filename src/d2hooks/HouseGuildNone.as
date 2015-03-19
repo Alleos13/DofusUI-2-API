@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class HouseGuildNone extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class HouseGuildNone {
 
 
-      public function HouseGuildNone() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

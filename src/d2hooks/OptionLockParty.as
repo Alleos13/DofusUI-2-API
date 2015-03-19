@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class OptionLockParty extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class OptionLockParty {
 
 
-      public function OptionLockParty() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

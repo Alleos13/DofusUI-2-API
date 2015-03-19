@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class SpellForgetUI extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class SpellForgetUI {
 
 
-      public function SpellForgetUI() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

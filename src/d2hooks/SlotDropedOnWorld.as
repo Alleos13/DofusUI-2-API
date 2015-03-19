@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class SlotDropedOnWorld extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class SlotDropedOnWorld {
 
 
-      public function SlotDropedOnWorld() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

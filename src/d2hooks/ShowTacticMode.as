@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ShowTacticMode extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ShowTacticMode {
 
 
-      public function ShowTacticMode() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

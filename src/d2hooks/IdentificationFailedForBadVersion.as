@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class IdentificationFailedForBadVersion extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class IdentificationFailedForBadVersion {
 
 
-      public function IdentificationFailedForBadVersion() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

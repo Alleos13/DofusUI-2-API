@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ExchangeReplayCountModified extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ExchangeReplayCountModified {
 
 
-      public function ExchangeReplayCountModified() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

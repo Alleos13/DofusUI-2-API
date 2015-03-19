@@ -1,27 +1,17 @@
-package d2network
-{
-   import utils.ReadOnlyData;
-   
-   public class AchievementRewardable extends ReadOnlyData
-   {
-      
-      {
-      //Décompilation abandonné
-      }
-      
-      public function AchievementRewardable(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get id() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get finishedlevel() : uint
-      {
-         //Décompilation abandonné
-      }
-   }
-}
+﻿ 
+package  d2network{
+    public class AchievementRewardable {
+
+
+        public function get id():uint{
+            return (new uint());
+        }
+
+        public function get finishedlevel():uint{
+            return (new uint());
+        }
+
+
+    }
+}//package d2network
+

@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class OpenLivingObject extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class OpenLivingObject {
 
 
-      public function OpenLivingObject() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

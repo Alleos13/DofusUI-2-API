@@ -4,12 +4,12 @@ package d2components
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function ChatComponent(param1:*, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
    }
 }

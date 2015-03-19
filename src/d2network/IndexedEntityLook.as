@@ -6,22 +6,22 @@ package d2network
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function IndexedEntityLook(param1:*, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
       
       public function get look() : EntityLook
       {
-         //Décompilation abandonné
+          
       }
       
       public function get index() : uint
       {
-         //Décompilation abandonné
+          
       }
    }
 }

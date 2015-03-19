@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class SetUpdate extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class SetUpdate {
 
 
-      public function SetUpdate() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

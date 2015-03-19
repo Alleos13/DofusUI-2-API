@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ExchangeItemAutoCraftRemaining extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ExchangeItemAutoCraftRemaining {
 
 
-      public function ExchangeItemAutoCraftRemaining() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

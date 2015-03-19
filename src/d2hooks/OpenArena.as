@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class OpenArena extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class OpenArena {
 
 
-      public function OpenArena() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class MapFightCount extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class MapFightCount {
 
 
-      public function MapFightCount() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

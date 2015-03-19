@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ConsoleAddCmd extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ConsoleAddCmd {
 
 
-      public function ConsoleAddCmd() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

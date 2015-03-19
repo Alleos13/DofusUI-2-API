@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class AuthenticationTicket extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class AuthenticationTicket {
 
 
-      public function AuthenticationTicket() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

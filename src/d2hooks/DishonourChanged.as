@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class DishonourChanged extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class DishonourChanged {
 
 
-      public function DishonourChanged() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

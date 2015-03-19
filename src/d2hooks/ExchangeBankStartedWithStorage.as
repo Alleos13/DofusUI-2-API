@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ExchangeBankStartedWithStorage extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ExchangeBankStartedWithStorage {
 
 
-      public function ExchangeBankStartedWithStorage() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

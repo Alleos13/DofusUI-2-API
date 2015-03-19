@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class PartyInvitation extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class PartyInvitation {
 
 
-      public function PartyInvitation() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

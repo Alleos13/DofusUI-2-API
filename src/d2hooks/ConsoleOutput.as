@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ConsoleOutput extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ConsoleOutput {
 
 
-      public function ConsoleOutput() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

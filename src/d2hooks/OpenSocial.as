@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class OpenSocial extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class OpenSocial {
 
 
-      public function OpenSocial() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

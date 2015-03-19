@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class MapWithMonsters extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class MapWithMonsters {
 
 
-      public function MapWithMonsters() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

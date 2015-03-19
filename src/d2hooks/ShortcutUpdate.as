@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ShortcutUpdate extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ShortcutUpdate {
 
 
-      public function ShortcutUpdate() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

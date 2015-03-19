@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ExchangeRequestCharacterToMe extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ExchangeRequestCharacterToMe {
 
 
-      public function ExchangeRequestCharacterToMe() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

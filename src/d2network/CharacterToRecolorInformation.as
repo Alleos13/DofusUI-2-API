@@ -4,17 +4,17 @@ package d2network
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function CharacterToRecolorInformation(param1:*, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
       
       public function get colors() : Object
       {
-         //Décompilation abandonné
+          
       }
    }
 }

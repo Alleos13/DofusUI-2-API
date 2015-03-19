@@ -6,32 +6,32 @@ package d2utils
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function UiGroup(param1:*, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
       
       public function get name() : String
       {
-         //Décompilation abandonné
+          
       }
       
       public function get exclusive() : Boolean
       {
-         //Décompilation abandonné
+          
       }
       
       public function get permanent() : Boolean
       {
-         //Décompilation abandonné
+          
       }
       
       public function get uis() : Object
       {
-         //Décompilation abandonné
+          
       }
    }
 }

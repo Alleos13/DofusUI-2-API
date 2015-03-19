@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class OptionWitnessForbidden extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class OptionWitnessForbidden {
 
 
-      public function OptionWitnessForbidden() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

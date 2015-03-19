@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class AllianceMembershipUpdated extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class AllianceMembershipUpdated {
 
 
-      public function AllianceMembershipUpdated() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

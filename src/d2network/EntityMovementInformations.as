@@ -6,22 +6,22 @@ package d2network
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function EntityMovementInformations(param1:*, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
       
       public function get id() : int
       {
-         //Décompilation abandonné
+          
       }
       
       public function get steps() : Object
       {
-         //Décompilation abandonné
+          
       }
    }
 }

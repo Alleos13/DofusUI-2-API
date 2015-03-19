@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class SubscribersList extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class SubscribersList {
 
 
-      public function SubscribersList() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

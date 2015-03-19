@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class PrismInFightRemoved extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class PrismInFightRemoved {
 
 
-      public function PrismInFightRemoved() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

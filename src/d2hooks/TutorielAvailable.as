@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class TutorielAvailable extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class TutorielAvailable {
 
 
-      public function TutorielAvailable() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

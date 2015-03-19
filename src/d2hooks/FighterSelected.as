@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class FighterSelected extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class FighterSelected {
 
 
-      public function FighterSelected() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

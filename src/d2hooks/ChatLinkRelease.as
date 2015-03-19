@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ChatLinkRelease extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ChatLinkRelease {
 
 
-      public function ChatLinkRelease() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class PackRestrictedSubArea extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class PackRestrictedSubArea {
 
 
-      public function PackRestrictedSubArea() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

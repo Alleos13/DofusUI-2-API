@@ -1,27 +1,17 @@
-package d2network
-{
-   import utils.ReadOnlyData;
-   
-   public class AdditionalTaxCollectorInformations extends ReadOnlyData
-   {
-      
-      {
-      //Décompilation abandonné
-      }
-      
-      public function AdditionalTaxCollectorInformations(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get collectorCallerName() : String
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get date() : uint
-      {
-         //Décompilation abandonné
-      }
-   }
-}
+﻿ 
+package  d2network{
+    public class AdditionalTaxCollectorInformations {
+
+
+        public function get collectorCallerName():String{
+            return (new String());
+        }
+
+        public function get date():uint{
+            return (new uint());
+        }
+
+
+    }
+}//package d2network
+

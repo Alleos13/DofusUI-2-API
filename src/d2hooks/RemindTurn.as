@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class RemindTurn extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class RemindTurn {
 
 
-      public function RemindTurn() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

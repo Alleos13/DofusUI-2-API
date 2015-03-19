@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ExchangeStartOkJobIndex extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ExchangeStartOkJobIndex {
 
 
-      public function ExchangeStartOkJobIndex() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

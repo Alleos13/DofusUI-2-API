@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class NotificationReset extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class NotificationReset {
 
 
-      public function NotificationReset() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

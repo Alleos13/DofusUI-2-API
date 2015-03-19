@@ -1,20 +1,13 @@
-package d2network
-{
-   public class AlliancePrismInformation extends PrismInformation
-   {
-      
-      {
-      //Décompilation abandonné
-      }
-      
-      public function AlliancePrismInformation(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get alliance() : AllianceInformations
-      {
-         //Décompilation abandonné
-      }
-   }
-}
+﻿ 
+package  d2network{
+    public class AlliancePrismInformation extends PrismInformation {
+
+
+        public function get alliance():AllianceInformations{
+            return (new AllianceInformations());
+        }
+
+
+    }
+}//package d2network
+

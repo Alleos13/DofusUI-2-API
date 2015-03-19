@@ -4,17 +4,17 @@ package d2network
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function TaxCollectorGuildInformations(param1:*, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
       
       public function get guild() : BasicGuildInformations
       {
-         //Décompilation abandonné
+          
       }
    }
 }

@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class PartyMemberRemove extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class PartyMemberRemove {
 
 
-      public function PartyMemberRemove() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

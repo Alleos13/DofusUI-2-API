@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class DropStart extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class DropStart {
 
 
-      public function DropStart() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class OpenReport extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class OpenReport {
 
 
-      public function OpenReport() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

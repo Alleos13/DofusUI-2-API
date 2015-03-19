@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class KrosmasterInventoryError extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class KrosmasterInventoryError {
 
 
-      public function KrosmasterInventoryError() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

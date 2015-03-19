@@ -6,22 +6,22 @@ package d2network
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function TaxCollectorName(param1:*, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
       
       public function get firstNameId() : uint
       {
-         //Décompilation abandonné
+          
       }
       
       public function get lastNameId() : uint
       {
-         //Décompilation abandonné
+          
       }
    }
 }

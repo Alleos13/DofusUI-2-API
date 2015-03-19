@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ChatFocus extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ChatFocus {
 
 
-      public function ChatFocus() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

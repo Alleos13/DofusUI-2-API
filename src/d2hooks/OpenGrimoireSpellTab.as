@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class OpenGrimoireSpellTab extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class OpenGrimoireSpellTab {
 
 
-      public function OpenGrimoireSpellTab() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

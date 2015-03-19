@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class MemberWarningState extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class MemberWarningState {
 
 
-      public function MemberWarningState() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

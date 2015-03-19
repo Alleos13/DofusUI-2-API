@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class InactivityNotification extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class InactivityNotification {
 
 
-      public function InactivityNotification() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

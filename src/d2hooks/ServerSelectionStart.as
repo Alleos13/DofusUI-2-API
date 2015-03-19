@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ServerSelectionStart extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ServerSelectionStart {
 
 
-      public function ServerSelectionStart() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

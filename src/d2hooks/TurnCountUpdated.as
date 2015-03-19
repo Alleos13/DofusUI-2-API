@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class TurnCountUpdated extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class TurnCountUpdated {
 
 
-      public function TurnCountUpdated() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

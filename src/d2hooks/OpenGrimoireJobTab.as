@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class OpenGrimoireJobTab extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class OpenGrimoireJobTab {
 
 
-      public function OpenGrimoireJobTab() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

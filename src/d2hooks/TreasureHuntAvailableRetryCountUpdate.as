@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class TreasureHuntAvailableRetryCountUpdate extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class TreasureHuntAvailableRetryCountUpdate {
 
 
-      public function TreasureHuntAvailableRetryCountUpdate() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -1,37 +1,25 @@
-package d2network
-{
-   import utils.ReadOnlyData;
-   
-   public class KrosmasterFigure extends ReadOnlyData
-   {
-      
-      {
-      //Décompilation abandonné
-      }
-      
-      public function KrosmasterFigure(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get uid() : String
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get figure() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get pedestal() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get bound() : Boolean
-      {
-         //Décompilation abandonné
-      }
-   }
-}
+﻿ 
+package  d2network{
+    public class KrosmasterFigure {
+
+
+        public function get uid():String{
+            return (new String());
+        }
+
+        public function get figure():uint{
+            return (new uint());
+        }
+
+        public function get pedestal():uint{
+            return (new uint());
+        }
+
+        public function get bound():Boolean{
+            return (new Boolean());
+        }
+
+
+    }
+}//package d2network
+

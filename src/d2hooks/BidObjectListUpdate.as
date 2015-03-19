@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class BidObjectListUpdate extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class BidObjectListUpdate {
 
 
-      public function BidObjectListUpdate() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

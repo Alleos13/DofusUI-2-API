@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class AfkModeChanged extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class AfkModeChanged {
 
 
-      public function AfkModeChanged() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class NpcDialogQuestion extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class NpcDialogQuestion {
 
 
-      public function NpcDialogQuestion() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

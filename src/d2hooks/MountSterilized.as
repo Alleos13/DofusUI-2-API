@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class MountSterilized extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class MountSterilized {
 
 
-      public function MountSterilized() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

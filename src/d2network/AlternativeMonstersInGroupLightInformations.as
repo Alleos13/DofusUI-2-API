@@ -6,22 +6,22 @@ package d2network
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function AlternativeMonstersInGroupLightInformations(param1:*, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
       
       public function get playerCount() : int
       {
-         //Décompilation abandonné
+          
       }
       
       public function get monsters() : Object
       {
-         //Décompilation abandonné
+          
       }
    }
 }

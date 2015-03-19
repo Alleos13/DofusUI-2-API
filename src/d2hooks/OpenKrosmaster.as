@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class OpenKrosmaster extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class OpenKrosmaster {
 
 
-      public function OpenKrosmaster() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

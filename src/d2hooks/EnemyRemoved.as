@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class EnemyRemoved extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class EnemyRemoved {
 
 
-      public function EnemyRemoved() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

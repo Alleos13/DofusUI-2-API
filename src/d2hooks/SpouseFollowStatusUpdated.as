@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class SpouseFollowStatusUpdated extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class SpouseFollowStatusUpdated {
 
 
-      public function SpouseFollowStatusUpdated() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

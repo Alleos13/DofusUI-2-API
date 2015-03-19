@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class PlayerFightRequestSent extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class PlayerFightRequestSent {
 
 
-      public function PlayerFightRequestSent() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

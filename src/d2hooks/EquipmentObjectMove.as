@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class EquipmentObjectMove extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class EquipmentObjectMove {
 
 
-      public function EquipmentObjectMove() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

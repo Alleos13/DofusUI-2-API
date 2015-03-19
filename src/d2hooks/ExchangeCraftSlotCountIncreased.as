@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ExchangeCraftSlotCountIncreased extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ExchangeCraftSlotCountIncreased {
 
 
-      public function ExchangeCraftSlotCountIncreased() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

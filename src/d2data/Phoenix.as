@@ -6,17 +6,17 @@ package d2data
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function Phoenix(param1:*, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
       
       public function get mapId() : uint
       {
-         //Décompilation abandonné
+          
       }
    }
 }

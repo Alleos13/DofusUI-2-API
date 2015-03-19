@@ -1,25 +1,17 @@
-package d2network
-{
-   public class HumanOptionAlliance extends HumanOption
-   {
-      
-      {
-      //Décompilation abandonné
-      }
-      
-      public function HumanOptionAlliance(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get allianceInformations() : AllianceInformations
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get aggressable() : uint
-      {
-         //Décompilation abandonné
-      }
-   }
-}
+﻿ 
+package  d2network{
+    public class HumanOptionAlliance extends HumanOption {
+
+
+        public function get allianceInformations():AllianceInformations{
+            return (new AllianceInformations());
+        }
+
+        public function get aggressable():uint{
+            return (new uint());
+        }
+
+
+    }
+}//package d2network
+

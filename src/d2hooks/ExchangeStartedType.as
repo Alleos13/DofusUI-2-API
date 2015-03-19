@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ExchangeStartedType extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ExchangeStartedType {
 
 
-      public function ExchangeStartedType() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

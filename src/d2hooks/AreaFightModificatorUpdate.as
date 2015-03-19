@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class AreaFightModificatorUpdate extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class AreaFightModificatorUpdate {
 
 
-      public function AreaFightModificatorUpdate() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

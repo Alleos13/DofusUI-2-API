@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class InventoryContent extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class InventoryContent {
 
 
-      public function InventoryContent() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

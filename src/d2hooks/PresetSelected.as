@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class PresetSelected extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class PresetSelected {
 
 
-      public function PresetSelected() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

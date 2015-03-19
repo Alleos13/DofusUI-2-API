@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class DofusShopMoney extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class DofusShopMoney {
 
 
-      public function DofusShopMoney() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

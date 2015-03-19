@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class MouseShiftClick extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class MouseShiftClick {
 
 
-      public function MouseShiftClick() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

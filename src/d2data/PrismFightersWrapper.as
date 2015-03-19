@@ -7,22 +7,22 @@ package d2data
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function PrismFightersWrapper(param1:*, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
       
       public function get playerCharactersInformations() : CharacterMinimalPlusLookInformations
       {
-         //Décompilation abandonné
+          
       }
       
       public function get entityLook() : Object
       {
-         //Décompilation abandonné
+          
       }
    }
 }

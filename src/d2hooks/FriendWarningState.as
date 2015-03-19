@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class FriendWarningState extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class FriendWarningState {
 
 
-      public function FriendWarningState() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class AllianceTaxCollectorRemoved extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class AllianceTaxCollectorRemoved {
 
 
-      public function AllianceTaxCollectorRemoved() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

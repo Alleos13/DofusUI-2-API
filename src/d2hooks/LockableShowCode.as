@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class LockableShowCode extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class LockableShowCode {
 
 
-      public function LockableShowCode() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

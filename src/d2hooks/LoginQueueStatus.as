@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class LoginQueueStatus extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class LoginQueueStatus {
 
 
-      public function LoginQueueStatus() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

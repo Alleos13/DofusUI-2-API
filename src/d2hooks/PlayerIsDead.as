@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class PlayerIsDead extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class PlayerIsDead {
 
 
-      public function PlayerIsDead() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

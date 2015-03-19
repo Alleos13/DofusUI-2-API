@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ClickItemStore extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ClickItemStore {
 
 
-      public function ClickItemStore() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

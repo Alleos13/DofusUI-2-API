@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class NpcDialogCreationFailure extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class NpcDialogCreationFailure {
 
 
-      public function NpcDialogCreationFailure() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

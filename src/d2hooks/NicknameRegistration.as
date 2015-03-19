@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class NicknameRegistration extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class NicknameRegistration {
 
 
-      public function NicknameRegistration() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

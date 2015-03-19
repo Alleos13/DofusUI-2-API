@@ -6,17 +6,17 @@ package d2network
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function QuestActiveInformations(param1:*, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
       
       public function get questId() : uint
       {
-         //Décompilation abandonné
+          
       }
    }
 }

@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ConfigPropertyChange extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ConfigPropertyChange {
 
 
-      public function ConfigPropertyChange() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

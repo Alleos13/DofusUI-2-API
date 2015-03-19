@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class ContextChanged extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class ContextChanged {
 
 
-      public function ContextChanged() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

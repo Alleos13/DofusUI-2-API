@@ -1,42 +1,29 @@
-package d2network
-{
-   import utils.ReadOnlyData;
-   
-   public class DungeonPartyFinderPlayer extends ReadOnlyData
-   {
-      
-      {
-      //Décompilation abandonné
-      }
-      
-      public function DungeonPartyFinderPlayer(param1:*, param2:Object)
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get playerId() : uint
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get playerName() : String
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get breed() : int
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get sex() : Boolean
-      {
-         //Décompilation abandonné
-      }
-      
-      public function get level() : uint
-      {
-         //Décompilation abandonné
-      }
-   }
-}
+﻿ 
+package  d2network{
+    public class DungeonPartyFinderPlayer {
+
+
+        public function get playerId():uint{
+            return (new uint());
+        }
+
+        public function get playerName():String{
+            return (new String());
+        }
+
+        public function get breed():int{
+            return (new int());
+        }
+
+        public function get sex():Boolean{
+            return (new Boolean());
+        }
+
+        public function get level():uint{
+            return (new uint());
+        }
+
+
+    }
+}//package d2network
+

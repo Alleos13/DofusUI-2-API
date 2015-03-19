@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class PartyCompanionMemberUpdate extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class PartyCompanionMemberUpdate {
 
 
-      public function PartyCompanionMemberUpdate() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

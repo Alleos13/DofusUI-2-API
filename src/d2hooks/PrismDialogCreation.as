@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class PrismDialogCreation extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class PrismDialogCreation {
 
 
-      public function PrismDialogCreation() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

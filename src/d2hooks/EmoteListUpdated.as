@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class EmoteListUpdated extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class EmoteListUpdated {
 
 
-      public function EmoteListUpdated() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

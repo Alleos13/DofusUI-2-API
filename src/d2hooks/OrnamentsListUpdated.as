@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class OrnamentsListUpdated extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class OrnamentsListUpdated {
 
 
-      public function OrnamentsListUpdated() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

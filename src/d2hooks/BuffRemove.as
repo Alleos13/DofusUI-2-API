@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class BuffRemove extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class BuffRemove {
 
 
-      public function BuffRemove() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

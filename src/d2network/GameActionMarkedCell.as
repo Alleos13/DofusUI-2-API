@@ -6,32 +6,32 @@ package d2network
    {
       
       {
-      //Décompilation abandonné
+       
       }
       
       public function GameActionMarkedCell(param1:*, param2:Object)
       {
-         //Décompilation abandonné
+          
       }
       
       public function get cellId() : uint
       {
-         //Décompilation abandonné
+          
       }
       
       public function get zoneSize() : int
       {
-         //Décompilation abandonné
+          
       }
       
       public function get cellColor() : int
       {
-         //Décompilation abandonné
+          
       }
       
       public function get cellsType() : int
       {
-         //Décompilation abandonné
+          
       }
    }
 }

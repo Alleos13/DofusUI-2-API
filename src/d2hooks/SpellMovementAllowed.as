@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class SpellMovementAllowed extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class SpellMovementAllowed {
 
 
-      public function SpellMovementAllowed() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

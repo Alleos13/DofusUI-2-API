@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class TaxCollectorDialogQuestionExtended extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class TaxCollectorDialogQuestionExtended {
 
 
-      public function TaxCollectorDialogQuestionExtended() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

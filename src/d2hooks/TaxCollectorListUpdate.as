@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class TaxCollectorListUpdate extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class TaxCollectorListUpdate {
 
 
-      public function TaxCollectorListUpdate() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+

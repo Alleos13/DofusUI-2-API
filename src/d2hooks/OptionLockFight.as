@@ -1,11 +1,8 @@
-package d2hooks
-{
-   public class OptionLockFight extends Object
-   {
+﻿ 
+package  d2hooks{
+    public class OptionLockFight {
 
 
-      public function OptionLockFight() {
-         super();
-      }
-   }
-}
+    }
+}//package d2hooks
+
