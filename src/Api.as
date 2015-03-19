@@ -20,8 +20,6 @@ package
       
       public static var system:SystemApi;
       
-      public static var modMenu:Object;
-      
       public static var player:PlayedCharacterApi;
       
       public static var data:DataApi;
